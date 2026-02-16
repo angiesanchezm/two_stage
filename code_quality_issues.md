@@ -306,3 +306,15 @@ Los más críticos son estos — causarían crash en runtime:
   Resumen: los 4 críticos son #1, #2, #5, y #7. El #1 bloquea testing
   completamente. Los #2 y #7 están acoplados al mismo valor hardcodeado de
   future_prediction. El #5 puede causar pérdida de progreso de entrenamiento.
+
+
+
+  Listo. Comenté 4 cosas en CVT_training.py:                                                  
+                                                                                              
+  1. Línea 33 — import de plot_video y alter_DTW_timing                                       
+  2. Líneas 478-488 — llamada a produce_validation_video durante validación (val_inf)       
+  3. Líneas 489-499 — llamada a produce_validation_video para talent                          
+  4. Líneas 790-799 — llamada a produce_validation_video en CVT_test()                        
+                                                                                              
+  El método produce_validation_video sigue definido en la clase pero ya no se invoca.         
+  Training, validación e inferencia funcionan igual — solo se deja de generar videos. 

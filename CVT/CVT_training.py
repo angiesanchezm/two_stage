@@ -30,7 +30,7 @@ from builders import build_optimizer, build_scheduler, \
 from constants import TARGET_PAD
 from data_operate.dataset import collate_fn
 
-from plot_videos import plot_video, alter_DTW_timing
+# from plot_videos import plot_video, alter_DTW_timing
 
 
 class CVTTrainManager:
@@ -475,28 +475,28 @@ class CVTTrainManager:
                         # Display these sequences, in this index order
                         # display = list(range(0, len(valid_hypotheses), int(np.ceil(len(valid_hypotheses) / 13.15))))
                         display = list(range(len(valid_hypotheses)))
-                        self.produce_validation_video(
-                            output_joints=valid_hypotheses,
-                            inputs=valid_inputs,
-                            references=valid_references,
-                            model_dir=self.model_dir,
-                            steps=self.steps,
-                            display=display,
-                            type="val_inf",
-                            file_paths=valid_file_paths,
-                            trg_length=valida_length
-                        )
-                        self.produce_validation_video(
-                            output_joints=talent_hypotheses,
-                            inputs=valid_inputs,
-                            references=valid_references,
-                            model_dir=self.model_dir,
-                            steps=self.steps,
-                            display=display,
-                            type="talent",
-                            file_paths=valid_file_paths,
-                            trg_length=valida_length
-                        )
+                        # self.produce_validation_video(
+                        #     output_joints=valid_hypotheses,
+                        #     inputs=valid_inputs,
+                        #     references=valid_references,
+                        #     model_dir=self.model_dir,
+                        #     steps=self.steps,
+                        #     display=display,
+                        #     type="val_inf",
+                        #     file_paths=valid_file_paths,
+                        #     trg_length=valida_length
+                        # )
+                        # self.produce_validation_video(
+                        #     output_joints=talent_hypotheses,
+                        #     inputs=valid_inputs,
+                        #     references=valid_references,
+                        #     model_dir=self.model_dir,
+                        #     steps=self.steps,
+                        #     display=display,
+                        #     type="talent",
+                        #     file_paths=valid_file_paths,
+                        #     trg_length=valida_length
+                        # )
 
                     self._save_checkpoint(type="every")
 
@@ -787,16 +787,16 @@ def CVT_test(cfg_file, ckpt=None) -> None:
     display = list(range(len(hypotheses)))
 
     # Produce videos for the produced hypotheses
-    trainer.produce_validation_video(
-        output_joints=hypotheses,
-        inputs=inputs,
-        references=references,
-        model_dir=model_dir,
-        display=display,
-        type="test",
-        file_paths=file_paths,
-        trg_length=test_length
-    )
+    # trainer.produce_validation_video(
+    #     output_joints=hypotheses,
+    #     inputs=inputs,
+    #     references=references,
+    #     model_dir=model_dir,
+    #     display=display,
+    #     type="test",
+    #     file_paths=file_paths,
+    #     trg_length=test_length
+    # )
 
     print("testing done")
 
