@@ -238,3 +238,16 @@ Verificacion -- `self.src_encoder` no aparece en:
 - `AEdecode()` (linea 139): usa `self.decoder`
 
 Probablemente `src_encoder` se construyo con la intencion de ser el "Former" separado del GlossMapper descrito en el paper, pero al final reutilizaron `self.encoder` (el del SLAE) para ambos caminos y nunca eliminaron el codigo. Son parametros muertos que consumen GPU.
+
+
+
+Fixes realizados #9 y #10:
+Fix hardcoded dimensions and learning_rate_min default
+
+  - Replace hardcoded layer dimensions (125, 512, 1024) in Conv_model.py
+    with values computed dynamically from config (embedding_dim, hidden_size)
+  - Read src_length and trg_length from config YAML instead of hardcoding
+    (18, 102) in build_model()
+  - Use config hidden_size for discriminator instead of hardcoded 512
+  - Fix learning_rate_min fallback default from 0.0002 to 0.00002 in
+    CVT_training.py to match Base.yaml and paper

@@ -4,3 +4,4 @@ venv/
 german/
 .DS_Store
 *.pyc
+skeletal.py

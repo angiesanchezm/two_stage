@@ -3,3 +3,4 @@ Data/
 venv/
 german/
 *.pyc
+skeletal.py
