@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
+#pip install numpy joblib tqdm
 """
 Converter: SignJoey format (61 keypoints) → Two-Stage SLG format
 Convierte de .pt.gz a archivos .gloss, .skels, .files
@@ -360,3 +361,13 @@ Esto creará:
     ├── test_signers.txt
     └── test_texts.txt
 """
+
+
+
+# cd /Users/angiesanchez/Documents/paper-ECCV/two_stage/SG_Latent/convert_data_sidd_twostage  
+                                                                                              
+#   python convert_signjoey_to_twostage.py \
+#       --input-dir /Users/angiesanchez/Documents/paper-ECCV2/convert_data_raw_sidd/data \
+#       --output-dir ../Data/german \
+#       --num-joints 61 \
+#       --validate
