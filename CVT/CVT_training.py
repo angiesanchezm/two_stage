@@ -81,7 +81,7 @@ class CVTTrainManager:
         self.disc_opt = build_optimizer(config=config["training"]["disc"], parameters=self.disc.parameters())
 
         # optimization
-        self.learning_rate_min = train_config.get("learning_rate_min", 0.0002)
+        self.learning_rate_min = train_config.get("learning_rate_min", 0.00002)
         self.clip_grad_fun = build_gradient_clipper(config=train_config)
         self.optimizer = build_optimizer(config=train_config, parameters=self.model.parameters())
 

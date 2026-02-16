@@ -85,6 +85,8 @@ model:
     shift_frames: 0
     future_prediction: 10 # Future Prediction Data Augmentation if > 0
     future_prediction_from: 0
+    src_length: 18  # Max gloss sequence length
+    trg_length: 102  # Max skeleton frames length
     encoder:  # Model Encoder
         type: "transformer"
         num_layers: 2 # Number of layers

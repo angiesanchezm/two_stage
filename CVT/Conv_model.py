@@ -64,21 +64,24 @@ class Model(nn.Module):
             nn.MaxPool1d(kernel_size=2, ceil_mode=False)
         )
 
-        self.linear1 = nn.Linear(125, 512)
-        #self.audio_linear = nn.Linear(125, 512)
-        self.cat_linear = nn.Linear(1024, 512)
-        # self.linear1 = nn.Linear(510, 512)
+        # Compute temporal_conv output dim dynamically from embedding_dim
+        embedding_dim = model_cfg["encoder"]["embeddings"]["embedding_dim"]
+        conv_out_dim = (embedding_dim - 4) // 2  # after 1st Conv1d(k=5) + MaxPool(k=2)
+        conv_out_dim = (conv_out_dim - 4) // 2   # after 2nd Conv1d(k=5) + MaxPool(k=2)
+        hidden_size = model_cfg["encoder"]["hidden_size"]
+
+        self.linear1 = nn.Linear(conv_out_dim, hidden_size)
+        self.cat_linear = nn.Linear(hidden_size * 2, hidden_size)
         self.mid = (out_trg_size - 1) // 10 + 1
-        #self.mid = 151
-        self.linear2 = nn.Linear(512, self.mid)
+        self.linear2 = nn.Linear(hidden_size, self.mid)
 
         # VAE
         self.trg_embed = trg_embed
 
         self.encoder = trg_encoder
         self.decoder = decoder
-        self.layer_norm = nn.LayerNorm(512, eps=1e-6)
-        self.output_layer = nn.Linear(512, out_trg_size, bias=False)
+        self.layer_norm = nn.LayerNorm(hidden_size, eps=1e-6)
+        self.output_layer = nn.Linear(hidden_size, out_trg_size, bias=False)
 
     # pylint: disable=arguments-differ
     def forward(self, src: Tensor):
@@ -236,10 +239,13 @@ def build_model(cfg: dict = None,
     decoder = BiLSTMLayer(rnn_type='LSTM', input_size=trg_linear.out_features, hidden_size=trg_linear.out_features,
                           num_layers=2, bidirectional=True)
 
-    # Define the model 30 102 112 697 623
-    model = Model(src_length=18,#17
+    src_length = cfg.get("src_length", 18)
+    trg_length = cfg.get("trg_length", 102)
+    hidden_size = cfg["encoder"]["hidden_size"]
+
+    model = Model(src_length=src_length,
                   src_encoder=src_encoder,
-                  trg_length=102,
+                  trg_length=trg_length,
                   trg_encoder=encoder,
                   decoder=decoder,
                   src_embed=src_embed,
@@ -248,8 +254,8 @@ def build_model(cfg: dict = None,
                   cfg=full_cfg,
                   out_trg_size=out_trg_size)
     disc = DataClassifierLayers(trg_size=cfg["trg_size"],
-                                pose_time_dim=102,
-                                hidden_size=512)
+                                pose_time_dim=trg_length,
+                                hidden_size=hidden_size)
     # Custom initialization of model parameters
     initialize_model(model, cfg, src_padding_idx, trg_padding_idx)
 
