@@ -327,17 +327,18 @@ class CVTTrainManager:
                 diff_true = batch[5][:, 1:, :] - batch[5][:, :-1, :]
                 frame_loss = self.loss(diff_pred, diff_true)
 
+                # 61 keypoints layout: trunk[0:19], right_hand[19:40], left_hand[40:61]
                 fgd_pred = torch.from_numpy(np.reshape(skel_out.cpu().detach().numpy()[:, :, :-1],
-                                                       (skel_out.size(0), skel_out.size(1), 50, 3))).cuda()
+                                                       (skel_out.size(0), skel_out.size(1), 61, 3))).cuda()
                 fgd_targ = torch.from_numpy(np.reshape(batch[5].cpu().detach().numpy()[:, :, :-1],
-                                                       (skel_out.size(0), skel_out.size(1), 50, 3))).cuda()
-                body_pred = fgd_pred[:, :, :8, :]
-                left_hand_pred = fgd_pred[:, :, 8:29, :]
-                right_hand_pred = fgd_pred[:, :, 29:, :]
+                                                       (skel_out.size(0), skel_out.size(1), 61, 3))).cuda()
+                body_pred = fgd_pred[:, :, :19, :]
+                right_hand_pred = fgd_pred[:, :, 19:40, :]
+                left_hand_pred = fgd_pred[:, :, 40:, :]
 
-                body_true = fgd_targ[:, :, :8, :]
-                left_hand_true = fgd_targ[:, :, 8:29, :]
-                right_hand_true = fgd_targ[:, :, 29:, :]
+                body_true = fgd_targ[:, :, :19, :]
+                right_hand_true = fgd_targ[:, :, 19:40, :]
+                left_hand_true = fgd_targ[:, :, 40:, :]
 
                 mulit_loss = 0.2* self.mulit_loss(body_pred, body_true) + 0.4* self.mulit_loss(left_hand_pred,
                                                                                                  left_hand_true) + 0.4* self.mulit_loss(

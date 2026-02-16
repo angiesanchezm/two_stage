@@ -71,7 +71,7 @@ model:
     tied_embeddings: False
     default: False
     tied_softmax: False
-    trg_size: 150 # Size of target skeleton coordinates (150 for Inverse Kinematics body/hands)
+    trg_size: 183 # Size of target skeleton coordinates (183 for 61 joints x 3 coords)
     count_in: True
     EOS_input: True
     zero_bos_frame: False

@@ -107,9 +107,18 @@ class SignJoeyToTwoStageConverter:
                 assert dim == self.joint_dim, \
                     f"Expected {self.joint_dim} dims, got {dim} in {sample['name']}"
                 
-                # Aplanar: [N_frames, 183] → [N_frames * 183]
-                sign_flat = sign_np.reshape(-1)
-                
+                # Add counter column: normalized frame position (0 to 1)
+                if num_frames > 1:
+                    counter = np.linspace(0.0, 1.0, num_frames).reshape(-1, 1)
+                else:
+                    counter = np.zeros((1, 1))
+
+                # Concatenate: [N_frames, 183] + [N_frames, 1] = [N_frames, 184]
+                sign_with_counter = np.concatenate([sign_np, counter], axis=1)
+
+                # Aplanar: [N_frames, 184] → [N_frames * 184]
+                sign_flat = sign_with_counter.reshape(-1)
+
                 # Convertir a string separado por espacios
                 sign_str = ' '.join([f"{val:.6f}" for val in sign_flat])
                 skels_file.write(sign_str + '\n')
@@ -222,18 +231,18 @@ def validate_output(output_dir: Path, split: str, num_joints: int = 61):
     print(f"✓ All files have {num_gloss} lines")
     
     # Verificar formato de skels (primeras 5 líneas)
-    joint_dim = num_joints * 3  # 61 × 3 = 183
-    
+    frame_dim = num_joints * 3 + 1  # 61 × 3 + 1 counter = 184
+
     for i, skel_line in enumerate(skels[:5]):
         values = skel_line.strip().split()
         num_values = len(values)
-        
-        # Debe ser múltiplo de joint_dim
-        assert num_values % joint_dim == 0, \
-            f"❌ Line {i}: {num_values} values (must be multiple of {joint_dim})"
-        
-        num_frames = num_values // joint_dim
-        print(f"  Sequence {i}: {num_frames} frames × {num_joints} joints = {num_values} values ✓")
+
+        # Debe ser múltiplo de frame_dim (joints + counter)
+        assert num_values % frame_dim == 0, \
+            f"❌ Line {i}: {num_values} values (must be multiple of {frame_dim})"
+
+        num_frames = num_values // frame_dim
+        print(f"  Sequence {i}: {num_frames} frames × ({num_joints} joints + counter) = {num_values} values ✓")
     
     # Verificar glosas no vacías
     empty_gloss = [i for i, g in enumerate(glosses) if not g.strip()]

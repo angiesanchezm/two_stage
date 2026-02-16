@@ -143,7 +143,7 @@ def load_data(cfg: dict) -> (Dataset, Dataset, Optional[Dataset],
     test_data = SignProdDataset(
         path=test_path,
         exts=("." + src_lang, "." + trg_lang, "." + files_lang),
-        trg_size=151,
+        trg_size=trg_size,
         fields=(src_field, reg_trg_field, files_field),
         skip_frames=skip_frames)
     src_vocab = build_vocab(train_data, dev_data, test_data)
