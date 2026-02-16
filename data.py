@@ -236,7 +236,6 @@ class SignProdDataset(data.Dataset):
 
         if not isinstance(fields[0], (tuple, list)):
             fields = [('src', fields[0]), ('trg', fields[1]), ('file_paths', fields[2])]
-        new_file_name = os.listdir("German")
         src_path, trg_path, file_path = tuple(os.path.expanduser(path + x) for x in exts)
 
         examples = []
@@ -248,13 +247,6 @@ class SignProdDataset(data.Dataset):
             i = 0
             # For Source, Target and FilePath
             for src_line, trg_line, files_line in zip(src_file, trg_file, files_file):
-                i += 1
-                if files_line.strip()[6:] in new_file_name:
-                    # b = torch.tensor(trg_frames).data.cpu().numpy()
-                    with open(os.path.join('test.skels'), "a") as f:
-                        a = trg_line.strip().split(" ")
-                        b = [(float(joint)) for joint in a]
-                        numpy.savetxt(f, numpy.array(b))
                 # Strip away the "\n" at the end of the line
                 src_line, trg_line, files_line = src_line.strip(), trg_line.strip(), files_line.strip()
 
