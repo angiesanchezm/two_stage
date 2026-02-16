@@ -318,3 +318,16 @@ Los más críticos son estos — causarían crash en runtime:
                                                                                               
   El método produce_validation_video sigue definido en la clase pero ya no se invoca.         
   Training, validación e inferencia funcionan igual — solo se deja de generar videos. 
+
+
+
+Hay un crash garantizado en inferencia. En CVT_test línea 769:                                                                                                                                        
+predicted_latent_data = [t.tolist() for t in predicted_latent]                                                                                                                                     
+Pero pre_validate_on_data retorna None para predicted_latent (línea 128). Iterar sobre None lanzará un TypeError.
+Se puede Proteger la línea 769 con un if (ya que el código que usa esos datos está comentado de todas formas)
+En CVT_test, después del unpack (línea 756-757), el único código que usa predicted_latent es la línea 769:                                    
+    predicted_latent_data = [t.tolist() for t in predicted_latent]                                                                                  
+                                                                                                                                                
+Y todo lo que sigue que usaría predicted_latent_data y reconst_latent ya está comentado (líneas 772-785). Entonces esa línea 769 hace un      
+cálculo que nadie consume — pero crashea porque predicted_latent es None.                                                                                    
+simplemente comentar o eliminar esa línea 769, ya que su resultado no se usa en ningún lado. El test correría sin problemas.

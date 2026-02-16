@@ -433,7 +433,8 @@ class CVTTrainManager:
                     valid_start_time = time.time()
 
                     valid_score, valid_loss, valid_references, valid_hypotheses, \
-                        valid_inputs, all_dtw_scores, valid_file_paths, talent_hypotheses, valida_length = \
+                        valid_inputs, all_dtw_scores, valid_file_paths, talent_hypotheses, valida_length, \
+                        predicted_latent, reconst_latent = \
                         pre_validate_on_data(
                             batch_size=self.eval_batch_size,
                             vocab=vocab,
@@ -765,7 +766,7 @@ def CVT_test(cfg_file, ckpt=None) -> None:
             vocab=src_vocab
         )
 
-    predicted_latent_data = [t.tolist() for t in predicted_latent]
+    #predicted_latent_data = [t.tolist() for t in predicted_latent]
 
 
     # with open('predicted_latent.json', 'w') as file:
