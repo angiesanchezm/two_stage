@@ -153,10 +153,11 @@ class CVTTrainManager:
             ckpt = self.ckpt
             if ckpt is None:
                 ckpt = get_latest_checkpoint(model_dir)
-                self.logger.info("Can't find checkpoint in directory %s", ckpt)
-            else:
+            if ckpt is not None:
                 self.logger.info("Continuing model from %s", ckpt)
                 self.init_from_checkpoint(ckpt)
+            else:
+                self.logger.info("No checkpoint found in directory %s", model_dir)
 
         # Skip frames
         self.skip_frames = config["data"].get("skip_frames", 2)

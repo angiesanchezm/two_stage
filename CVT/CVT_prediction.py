@@ -125,4 +125,4 @@ def pre_validate_on_data(model: Model,
     #return current_valid_score, valid_loss, valid_references, valid_hypotheses, \
     #     valid_inputs, all_dtw_scores, file_paths, talent_hypotheses, valid_length, predicted_latent, reconst_latent
     return current_valid_score, valid_loss, valid_references, valid_hypotheses, \
-        valid_inputs, all_dtw_scores, file_paths, talent_hypotheses, valid_length
+        valid_inputs, all_dtw_scores, file_paths, talent_hypotheses, valid_length, None, None
