@@ -1,0 +1,6 @@
+convert_data_sidd_twostage/
+Data/
+venv/
+german/
+.DS_Store
+*.pyc
