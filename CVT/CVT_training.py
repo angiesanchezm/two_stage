@@ -766,40 +766,33 @@ def CVT_test(cfg_file, ckpt=None) -> None:
             vocab=src_vocab
         )
 
-    #predicted_latent_data = [t.tolist() for t in predicted_latent]
+    # Save results to model_dir
+    results_dir = os.path.join(model_dir, "test_results")
+    os.makedirs(results_dir, exist_ok=True)
 
+    # Save skeletons predichos (.skels format: one sequence per line, space-separated floats)
+    with open(os.path.join(results_dir, "hypotheses.skels"), "w") as f:
+        for hyp in hypotheses:
+            coords = hyp.cpu().numpy()
+            for frame in coords:
+                f.write(" ".join(f"{v:.6f}" for v in frame) + " ")
+            f.write("\n")
 
-    # with open('predicted_latent.json', 'w') as file:
-    #     json.dump(predicted_latent_data, file)
-    #
-    # reconst_latent_data = [t.tolist() for t in reconst_latent]
-    #
+    # Save file paths
+    with open(os.path.join(results_dir, "file_paths.txt"), "w") as f:
+        for fp in file_paths:
+            f.write(fp + "\n")
 
-    # with open('reconst_latent.json', 'w') as file:
-    #     json.dump(reconst_latent_data, file)
-    #
-    #
-    # # with open('predicted_latent.pkl', 'wb') as file:
-    # #     pickle.dump(predicted_latent, file)
-    # # with open('reconst_latent.pkl', 'wb') as file:
-    # #     pickle.dump(reconst_latent, file)
+    # Save scores
+    with open(os.path.join(results_dir, "scores.txt"), "w") as f:
+        f.write(f"DTW score (mean): {score:.4f}\n")
+        f.write(f"Loss: {loss:.4f}\n")
+        f.write(f"\nPer-sequence DTW scores:\n")
+        for fp, dtw in zip(file_paths, all_dtw_scores):
+            f.write(f"{fp}\t{dtw:.4f}\n")
 
-
-    # Set which sequences to produce video for
-    display = list(range(len(hypotheses)))
-
-    # Produce videos for the produced hypotheses
-    # trainer.produce_validation_video(
-    #     output_joints=hypotheses,
-    #     inputs=inputs,
-    #     references=references,
-    #     model_dir=model_dir,
-    #     display=display,
-    #     type="test",
-    #     file_paths=file_paths,
-    #     trg_length=test_length
-    # )
-
+    print(f"Results saved to {results_dir}")
+    print(f"DTW score: {score:.4f}")
     print("testing done")
 
 

@@ -1,5 +1,4 @@
 import numpy as np
-import math
 
 import torch
 from torch.utils.data import DataLoader
@@ -45,7 +44,6 @@ def pre_validate_on_data(model: Model,
         total_ntokens = 0
         total_nseqs = 0
 
-        batches = 0
 
 
         predicted_latent = []
@@ -114,10 +112,6 @@ def pre_validate_on_data(model: Model,
             dtw_score = calculate_dtw(targets, output, trg_length)
             all_dtw_scores.extend(dtw_score)
 
-            # Can set to only run a few batches
-            if batches == math.ceil(20 / batch_size):
-                break
-            batches += 1
 
         # Dynamic Time Warping scores
         current_valid_score = np.mean(all_dtw_scores)

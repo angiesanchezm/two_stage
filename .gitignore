@@ -4,3 +4,4 @@ venv/
 german/
 *.pyc
 skeletal.py
+Models/
