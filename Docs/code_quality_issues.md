@@ -331,3 +331,5 @@ En CVT_test, después del unpack (línea 756-757), el único código que usa pre
 Y todo lo que sigue que usaría predicted_latent_data y reconst_latent ya está comentado (líneas 772-785). Entonces esa línea 769 hace un      
 cálculo que nadie consume — pero crashea porque predicted_latent es None.                                                                                    
 simplemente comentar o eliminar esa línea 769, ya que su resultado no se usa en ningún lado. El test correría sin problemas.
+
+Ya se comento esa linea 769. 
