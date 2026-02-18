@@ -296,7 +296,7 @@ class CVTTrainManager:
                 else:
                     self.pre_model.out_stds = None
                 all_epoch_noise = []
-            train_loader = DataLoader(train_data_iter, batch_size=self.batch_size, shuffle=False, collate_fn=collate_fn)
+            train_loader = DataLoader(train_data_iter, batch_size=self.batch_size, shuffle=False, collate_fn=collate_fn, drop_last=True)
             for i, (src, trg, file_path, trg_length) in enumerate(train_loader):
 
                 # reactivate training
