@@ -271,7 +271,7 @@ class SignProdDataset(data.Dataset):
 
 
 
-                if len(trg_frames) > 100:
+                if len(trg_frames) > 300:
                     continue
                 #if len(audio_frame) > 623:
                 #    print(len(audio_frame))

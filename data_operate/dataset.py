@@ -17,8 +17,7 @@ def resample_sequence(sequence, target_length):
     return resampled_sequence
 def collate_fn(batch):
     token2idx = batch[0][3]
-    max_length = 100
-    # max_length = 112
+    max_length = 300
     left_pad = 6
     new_trg = []
     new_name = []

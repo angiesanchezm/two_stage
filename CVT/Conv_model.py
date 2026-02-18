@@ -240,7 +240,7 @@ def build_model(cfg: dict = None,
                           num_layers=2, bidirectional=True)
 
     src_length = cfg.get("src_length", 18)
-    trg_length = cfg.get("trg_length", 102)
+    trg_length = cfg.get("trg_length", 302)
     hidden_size = cfg["encoder"]["hidden_size"]
 
     model = Model(src_length=src_length,

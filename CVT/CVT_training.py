@@ -542,7 +542,7 @@ class CVTTrainManager:
                                  steps="",
                                  file_paths=None):
 
-        max_length = 100
+        max_length = 300
         left_padding = 6
         # If not at test
         if type == "val_inf":

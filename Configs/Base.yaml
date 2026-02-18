@@ -32,7 +32,7 @@ training:
     learning_rate_min: 0.00002 # Learning rate minimum, when training will stop
     weight_decay: 0.0   # Weight Decay
     clip_grad_norm: 5.0   # Gradient clipping value
-    batch_size: 128    # Batch Size for training
+    batch_size: 32    # Batch Size for training
     batch_type: "sentence"
     scheduling: "plateau"   # Scheduling at training time (plateau, ...)
     patience: 7  # How many epochs of no improvement causes a LR reduction
@@ -86,7 +86,7 @@ model:
     future_prediction: 10 # Future Prediction Data Augmentation if > 0
     future_prediction_from: 0
     src_length: 18  # Max gloss sequence length
-    trg_length: 102  # Max skeleton frames length
+    trg_length: 302  # Max skeleton frames length
     encoder:  # Model Encoder
         type: "transformer"
         num_layers: 2 # Number of layers

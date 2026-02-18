@@ -241,7 +241,7 @@ def calculate_dtw(references, hypotheses, trg_length):
     euclidean_norm = lambda x, y: np.sum(np.abs(x - y))
 
     dtw_scores = []
-    max_length = 100
+    max_length = 300
     left_padding = 6
     # new_hyp = []
     # new_ref = []
