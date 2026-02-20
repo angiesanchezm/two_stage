@@ -3,8 +3,8 @@
 Build dev.pt.gz and test.pt.gz from inference results.
 
 Assembles SignJoey-format .pt.gz files from:
-- Models/german/100_test_results_{split}/file_paths.txt  -> name
-- Models/german/100_test_results_{split}/hypotheses.skels -> sign tensor
+- Models/german/*_test_results_{split}/file_paths.txt  -> name
+- Models/german/*_test_results_{split}/hypotheses.skels -> sign tensor
 - Data/metadata/{split}_texts.txt                        -> text
 - Data/metadata/{split}_signers.txt                      -> signer
 - Data/german/{split}.files + {split}.gloss              -> gloss
@@ -161,7 +161,7 @@ def main():
     )
     parser.add_argument('--models-dir', type=str,
                         default='../Models/german',
-                        help='Directory containing 100_test_results_{dev,test}/')
+                        help='Directory containing *_test_results_{dev,test}/')
     parser.add_argument('--data-dir', type=str,
                         default='../Data/german',
                         help='Directory containing {split}.files and {split}.gloss')
@@ -179,16 +179,15 @@ def main():
     metadata_dir = Path(args.metadata_dir)
     output_dir = Path(args.output_dir)
 
-    splits = {
-        'dev': '100_test_results_dev',
-        'test': '100_test_results_test',
-    }
-
-    for split, results_folder in splits.items():
-        results_dir = models_dir / results_folder
-        if not results_dir.exists():
-            print(f"Skipping {split}: {results_dir} not found")
+    for split in ['dev', 'test']:
+        # Auto-detect folder matching *_test_results_{split}
+        matches = sorted(models_dir.glob(f"*_test_results_{split}"))
+        if not matches:
+            print(f"Skipping {split}: no *_test_results_{split}/ found in {models_dir}")
             continue
+        results_dir = matches[-1]  # use latest if multiple
+        if len(matches) > 1:
+            print(f"  Multiple results dirs for {split}, using: {results_dir.name}")
 
         output_path = output_dir / f"{split}.pt.gz"
         build_pt_gz(results_dir, data_dir, metadata_dir, split, output_path)

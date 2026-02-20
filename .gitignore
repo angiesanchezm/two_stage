@@ -5,3 +5,4 @@ german/
 *.pyc
 skeletal.py
 Models/
+tensorboards/
