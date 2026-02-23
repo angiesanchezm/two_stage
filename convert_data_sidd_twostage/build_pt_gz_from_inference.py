@@ -8,6 +8,9 @@ Assembles SignJoey-format .pt.gz files from:
 - Data/metadata/{split}_texts.txt                        -> text
 - Data/metadata/{split}_signers.txt                      -> signer
 - Data/german/{split}.files + {split}.gloss              -> gloss
+
+Supports trimming padded inference outputs back to original sequence lengths
+using ground truth .skels files (--trim flag).
 """
 
 import argparse
@@ -63,6 +66,27 @@ def load_glosses(data_dir: Path, split: str) -> dict:
     return glosses
 
 
+def load_gt_lengths(data_dir: Path, split: str, frame_dim: int = 184) -> dict:
+    """Load original sequence lengths from ground truth .skels + .files.
+
+    Each line in .skels has N_frames * frame_dim floats, so:
+        original_length = len(values) // frame_dim
+    """
+    lengths = {}
+    files_path = data_dir / f"{split}.files"
+    skels_path = data_dir / f"{split}.skels"
+
+    with open(files_path, 'r', encoding='utf-8') as ff, \
+         open(skels_path, 'r', encoding='utf-8') as sf:
+        for name_line, skel_line in zip(ff, sf):
+            name = name_line.strip()
+            n_values = len(skel_line.strip().split())
+            lengths[name] = n_values // frame_dim
+
+    print(f"  Loaded {len(lengths)} GT lengths from {skels_path}")
+    return lengths
+
+
 def parse_skels_line(line: str, frame_dim: int = 184, joint_dim: int = 183) -> torch.Tensor:
     """Parse a single line of hypotheses.skels into a [N_frames, 183] tensor.
 
@@ -82,10 +106,12 @@ def parse_skels_line(line: str, frame_dim: int = 184, joint_dim: int = 183) -> t
 
 
 def build_pt_gz(results_dir: Path, data_dir: Path, metadata_dir: Path,
-                split: str, output_path: Path):
+                split: str, output_path: Path, trim: bool = False):
     """Build a .pt.gz file for one split."""
     print(f"\n{'='*70}")
     print(f"Building {output_path.name} from {results_dir}")
+    if trim:
+        print(f"  (trimming to original GT lengths)")
     print(f"{'='*70}")
 
     # 1. Load names
@@ -106,12 +132,24 @@ def build_pt_gz(results_dir: Path, data_dir: Path, metadata_dir: Path,
     signers = load_signers(metadata_dir, split)
     glosses = load_glosses(data_dir, split)
 
+    # 3b. Load GT lengths for trimming
+    gt_lengths = load_gt_lengths(data_dir, split) if trim else {}
+
     # 4. Assemble samples
+    LEFT_PAD = 6  # left padding added by collate_fn during training/inference
     samples = []
     missing = {'text': 0, 'signer': 0, 'gloss': 0}
+    trim_count = 0
 
     for i, name in enumerate(names):
         sign = parse_skels_line(skel_lines[i])
+
+        # Trim padded inference output to original length
+        if trim and name in gt_lengths:
+            orig_len = gt_lengths[name]
+            end_idx = min(LEFT_PAD + orig_len, sign.shape[0])
+            sign = sign[LEFT_PAD:end_idx]
+            trim_count += 1
 
         text = texts.get(name)
         if text is None:
@@ -140,6 +178,12 @@ def build_pt_gz(results_dir: Path, data_dir: Path, metadata_dir: Path,
     for field, count in missing.items():
         if count > 0:
             print(f"  WARNING: {count} samples missing '{field}'")
+
+    if trim:
+        not_trimmed = len(names) - trim_count
+        print(f"  Trimmed {trim_count}/{len(names)} sequences to original GT lengths")
+        if not_trimmed > 0:
+            print(f"  WARNING: {not_trimmed} sequences had no GT length (kept padded)")
 
     # 5. Stats
     frame_counts = [s['sign'].shape[0] for s in samples]
@@ -171,6 +215,9 @@ def main():
     parser.add_argument('--output-dir', type=str,
                         default='../Models/german',
                         help='Output directory for .pt.gz files')
+    parser.add_argument('--trim', action='store_true',
+                        help='Trim padded sequences to original GT lengths '
+                             '(uses {data-dir}/{split}.skels for lengths)')
 
     args = parser.parse_args()
 
@@ -190,10 +237,27 @@ def main():
             print(f"  Multiple results dirs for {split}, using: {results_dir.name}")
 
         output_path = output_dir / f"{split}.pt.gz"
-        build_pt_gz(results_dir, data_dir, metadata_dir, split, output_path)
+        build_pt_gz(results_dir, data_dir, metadata_dir, split, output_path,
+                    trim=args.trim)
 
     print(f"\nDone.")
 
 
 if __name__ == "__main__":
     main()
+
+
+#   Models_300 (max_length=300):                                                                                 
+#   - dev: 519 secuencias, frames 16-272 (antes todas 302)                                                       
+#   - test: 642 secuencias, frames 17-242 (antes todas 302)                                                      
+                                                                                                               
+#   Models_100 (max_length=100):                                                                                 
+#   - dev: 236 secuencias, frames 16-96 (antes todas 102)                                                        
+#   - test: 326 secuencias, frames 17-96 (antes todas 102)                                                       
+                                                                                                               
+#   Nota: en Models_100 el máximo es 96 en vez de 100 porque la salida del modelo tiene 102 frames y el left
+#   padding es 6, así que el contenido útil máximo es 102 - 6 = 96 frames.
+
+#   El script ahora acepta la flag --trim que:
+#   1. Lee las longitudes originales de los archivos GT {split}.skels + {split}.files
+#   2. Recorta cada hipótesis quitando el left padding (6 frames) y tomando solo original_length frames
