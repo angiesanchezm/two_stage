@@ -1,0 +1,1176 @@
+{"video_path": "S000020_P0004_T00", "num_frames": 170, "idle_segments": [{"start_time": 0, "end_time": 91}, {"start_time": 147, "end_time": 169}]}
+{"video_path": "S000040_P0008_T00", "num_frames": 92, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 79, "end_time": 91}]}
+{"video_path": "S000054_P0008_T00", "num_frames": 127, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 102, "end_time": 126}]}
+{"video_path": "S000153_P0000_T00", "num_frames": 134, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 107, "end_time": 133}]}
+{"video_path": "S000185_P0004_T00", "num_frames": 209, "idle_segments": [{"start_time": 0, "end_time": 75}, {"start_time": 188, "end_time": 208}]}
+{"video_path": "S000185_P0008_T00", "num_frames": 215, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 212, "end_time": 214}]}
+{"video_path": "S000195_P0004_T00", "num_frames": 105, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 64, "end_time": 104}]}
+{"video_path": "S000196_P0008_T00", "num_frames": 145, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 132, "end_time": 144}]}
+{"video_path": "S000201_P0000_T00", "num_frames": 138, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 114, "end_time": 137}]}
+{"video_path": "S000213_P0004_T00", "num_frames": 94, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 77, "end_time": 93}]}
+{"video_path": "S000213_P0008_T00", "num_frames": 148, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 125, "end_time": 147}]}
+{"video_path": "S000218_P0004_T00", "num_frames": 50, "idle_segments": [{"start_time": 34, "end_time": 49}]}
+{"video_path": "S000218_P0008_T00", "num_frames": 89, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 78, "end_time": 88}]}
+{"video_path": "S000220_P0000_T00", "num_frames": 102, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 79, "end_time": 101}]}
+{"video_path": "S000224_P0000_T00", "num_frames": 108, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 80, "end_time": 107}]}
+{"video_path": "S000224_P0008_T00", "num_frames": 104, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 81, "end_time": 103}]}
+{"video_path": "S000225_P0004_T00", "num_frames": 91, "idle_segments": [{"start_time": 81, "end_time": 90}]}
+{"video_path": "S000230_P0000_T00", "num_frames": 247, "idle_segments": [{"start_time": 0, "end_time": 56}, {"start_time": 224, "end_time": 246}]}
+{"video_path": "S000230_P0008_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 181, "end_time": 194}]}
+{"video_path": "S000236_P0000_T00", "num_frames": 92, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 63, "end_time": 91}]}
+{"video_path": "S000236_P0008_T00", "num_frames": 80, "idle_segments": [{"start_time": 71, "end_time": 79}]}
+{"video_path": "S000249_P0000_T00", "num_frames": 125, "idle_segments": [{"start_time": 0, "end_time": 36}, {"start_time": 108, "end_time": 124}]}
+{"video_path": "S000249_P0008_T00", "num_frames": 110, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 101, "end_time": 109}]}
+{"video_path": "S000255_P0000_T00", "num_frames": 120, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 119, "end_time": 119}]}
+{"video_path": "S000255_P0008_T00", "num_frames": 112, "idle_segments": [{"start_time": 102, "end_time": 111}]}
+{"video_path": "S000257_P0000_T00", "num_frames": 157, "idle_segments": [{"start_time": 0, "end_time": 40}, {"start_time": 135, "end_time": 156}]}
+{"video_path": "S000262_P0004_T00", "num_frames": 129, "idle_segments": [{"start_time": 98, "end_time": 128}]}
+{"video_path": "S000274_P0000_T00", "num_frames": 152, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 137, "end_time": 151}]}
+{"video_path": "S000275_P0004_T00", "num_frames": 146, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 119, "end_time": 145}]}
+{"video_path": "S000291_P0000_T00", "num_frames": 127, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 91, "end_time": 126}]}
+{"video_path": "S000291_P0004_T00", "num_frames": 115, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 86, "end_time": 114}]}
+{"video_path": "S000295_P0000_T00", "num_frames": 124, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 109, "end_time": 123}]}
+{"video_path": "S000295_P0008_T00", "num_frames": 127, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 115, "end_time": 126}]}
+{"video_path": "S000313_P0004_T00", "num_frames": 207, "idle_segments": [{"start_time": 182, "end_time": 206}]}
+{"video_path": "S000313_P0008_T00", "num_frames": 254, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 248, "end_time": 253}]}
+{"video_path": "S000317_P0004_T00", "num_frames": 212, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 193, "end_time": 211}]}
+{"video_path": "S000317_P0008_T00", "num_frames": 249, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 227, "end_time": 248}]}
+{"video_path": "S000331_P0004_T00", "num_frames": 185, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 172, "end_time": 184}]}
+{"video_path": "S000331_P0008_T00", "num_frames": 167, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 152, "end_time": 166}]}
+{"video_path": "S000362_P0000_T00", "num_frames": 453, "idle_segments": [{"start_time": 0, "end_time": 195}, {"start_time": 440, "end_time": 452}]}
+{"video_path": "S000362_P0004_T00", "num_frames": 443, "idle_segments": [{"start_time": 441, "end_time": 442}]}
+{"video_path": "S000373_P0000_T00", "num_frames": 139, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 122, "end_time": 138}]}
+{"video_path": "S000373_P0008_T00", "num_frames": 190, "idle_segments": [{"start_time": 0, "end_time": 39}, {"start_time": 184, "end_time": 189}]}
+{"video_path": "S000379_P0004_T00", "num_frames": 137, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 101, "end_time": 136}]}
+{"video_path": "S000379_P0008_T00", "num_frames": 132, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 119, "end_time": 131}]}
+{"video_path": "S000388_P0000_T00", "num_frames": 92, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 60, "end_time": 91}]}
+{"video_path": "S000414_P0004_T00", "num_frames": 147, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 130, "end_time": 146}]}
+{"video_path": "S000414_P0008_T00", "num_frames": 186, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 179, "end_time": 185}]}
+{"video_path": "S000433_P0000_T00", "num_frames": 135, "idle_segments": [{"start_time": 0, "end_time": 40}, {"start_time": 100, "end_time": 134}]}
+{"video_path": "S000433_P0004_T00", "num_frames": 103, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 86, "end_time": 102}]}
+{"video_path": "S000438_P0004_T00", "num_frames": 261, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 226, "end_time": 260}]}
+{"video_path": "S000438_P0008_T00", "num_frames": 293, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 281, "end_time": 292}]}
+{"video_path": "S000440_P0000_T00", "num_frames": 230, "idle_segments": [{"start_time": 0, "end_time": 83}, {"start_time": 210, "end_time": 229}]}
+{"video_path": "S000440_P0004_T00", "num_frames": 154, "idle_segments": [{"start_time": 133, "end_time": 153}]}
+{"video_path": "S000452_P0004_T00", "num_frames": 123, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 103, "end_time": 122}]}
+{"video_path": "S000452_P0008_T00", "num_frames": 153, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 141, "end_time": 152}]}
+{"video_path": "S000455_P0000_T00", "num_frames": 250, "idle_segments": [{"start_time": 0, "end_time": 62}, {"start_time": 227, "end_time": 249}]}
+{"video_path": "S000455_P0008_T00", "num_frames": 191, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 184, "end_time": 190}]}
+{"video_path": "S000460_P0000_T00", "num_frames": 255, "idle_segments": [{"start_time": 0, "end_time": 29}, {"start_time": 226, "end_time": 254}]}
+{"video_path": "S000460_P0004_T00", "num_frames": 236, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 207, "end_time": 235}]}
+{"video_path": "S000464_P0000_T00", "num_frames": 251, "idle_segments": [{"start_time": 0, "end_time": 53}, {"start_time": 231, "end_time": 250}]}
+{"video_path": "S000464_P0004_T00", "num_frames": 173, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 152, "end_time": 172}]}
+{"video_path": "S000466_P0000_T00", "num_frames": 131, "idle_segments": [{"start_time": 109, "end_time": 130}]}
+{"video_path": "S000466_P0008_T00", "num_frames": 179, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 170, "end_time": 178}]}
+{"video_path": "S000468_P0000_T00", "num_frames": 172, "idle_segments": [{"start_time": 0, "end_time": 43}, {"start_time": 151, "end_time": 171}]}
+{"video_path": "S000468_P0008_T00", "num_frames": 127, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 101, "end_time": 126}]}
+{"video_path": "S000475_P0008_T00", "num_frames": 206, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 182, "end_time": 205}]}
+{"video_path": "S000496_P0000_T00", "num_frames": 232, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 212, "end_time": 231}]}
+{"video_path": "S000502_P0000_T00", "num_frames": 123, "idle_segments": [{"start_time": 114, "end_time": 122}]}
+{"video_path": "S000504_P0004_T00", "num_frames": 117, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 101, "end_time": 116}]}
+{"video_path": "S000504_P0008_T00", "num_frames": 137, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 136, "end_time": 136}]}
+{"video_path": "S000550_P0004_T00", "num_frames": 130, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 93, "end_time": 129}]}
+{"video_path": "S000550_P0008_T00", "num_frames": 147, "idle_segments": [{"start_time": 0, "end_time": 36}, {"start_time": 122, "end_time": 146}]}
+{"video_path": "S000560_P0008_T00", "num_frames": 132, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 110, "end_time": 131}]}
+{"video_path": "S000561_P0000_T00", "num_frames": 178, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 166, "end_time": 177}]}
+{"video_path": "S000561_P0004_T00", "num_frames": 146, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 134, "end_time": 145}]}
+{"video_path": "S000568_P0008_T00", "num_frames": 229, "idle_segments": [{"start_time": 0, "end_time": 37}, {"start_time": 224, "end_time": 228}]}
+{"video_path": "S000573_P0000_T00", "num_frames": 201, "idle_segments": [{"start_time": 0, "end_time": 31}, {"start_time": 177, "end_time": 200}]}
+{"video_path": "S000576_P0004_T00", "num_frames": 170, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 150, "end_time": 169}]}
+{"video_path": "S000576_P0008_T00", "num_frames": 268, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 263, "end_time": 267}]}
+{"video_path": "S000578_P0000_T00", "num_frames": 268, "idle_segments": [{"start_time": 0, "end_time": 55}, {"start_time": 248, "end_time": 267}]}
+{"video_path": "S000578_P0008_T00", "num_frames": 237, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 218, "end_time": 236}]}
+{"video_path": "S000598_P0000_T00", "num_frames": 292, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 264, "end_time": 291}]}
+{"video_path": "S000598_P0004_T00", "num_frames": 225, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 201, "end_time": 224}]}
+{"video_path": "S000603_P0008_T00", "num_frames": 200, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 173, "end_time": 199}]}
+{"video_path": "S000616_P0008_T00", "num_frames": 129, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 92, "end_time": 128}]}
+{"video_path": "S000620_P0000_T00", "num_frames": 216, "idle_segments": [{"start_time": 0, "end_time": 36}, {"start_time": 188, "end_time": 215}]}
+{"video_path": "S000625_P0004_T00", "num_frames": 188, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 164, "end_time": 187}]}
+{"video_path": "S000625_P0008_T00", "num_frames": 167, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 154, "end_time": 166}]}
+{"video_path": "S000637_P0000_T00", "num_frames": 288, "idle_segments": [{"start_time": 267, "end_time": 287}]}
+{"video_path": "S000637_P0008_T00", "num_frames": 138, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 126, "end_time": 137}]}
+{"video_path": "S000638_P0004_T00", "num_frames": 172, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 138, "end_time": 171}]}
+{"video_path": "S000638_P0008_T00", "num_frames": 202, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 187, "end_time": 201}]}
+{"video_path": "S000656_P0004_T00", "num_frames": 207, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 177, "end_time": 206}]}
+{"video_path": "S000656_P0008_T00", "num_frames": 263, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 242, "end_time": 262}]}
+{"video_path": "S000669_P0000_T00", "num_frames": 160, "idle_segments": [{"start_time": 122, "end_time": 159}]}
+{"video_path": "S000673_P0000_T00", "num_frames": 203, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 182, "end_time": 202}]}
+{"video_path": "S000673_P0008_T00", "num_frames": 205, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 187, "end_time": 204}]}
+{"video_path": "S000690_P0000_T00", "num_frames": 103, "idle_segments": [{"start_time": 84, "end_time": 102}]}
+{"video_path": "S000690_P0008_T00", "num_frames": 143, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 123, "end_time": 142}]}
+{"video_path": "S000695_P0004_T00", "num_frames": 180, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 160, "end_time": 179}]}
+{"video_path": "S000695_P0008_T00", "num_frames": 183, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 148, "end_time": 182}]}
+{"video_path": "S000708_P0000_T00", "num_frames": 108, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 91, "end_time": 107}]}
+{"video_path": "S000708_P0004_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 128, "end_time": 160}]}
+{"video_path": "S000718_P0000_T00", "num_frames": 178, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 163, "end_time": 177}]}
+{"video_path": "S000718_P0004_T00", "num_frames": 208, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 191, "end_time": 207}]}
+{"video_path": "S000724_P0000_T00", "num_frames": 150, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 129, "end_time": 149}]}
+{"video_path": "S000724_P0004_T00", "num_frames": 146, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 121, "end_time": 145}]}
+{"video_path": "S000783_P0000_T00", "num_frames": 199, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 182, "end_time": 198}]}
+{"video_path": "S000786_P0000_T00", "num_frames": 201, "idle_segments": [{"start_time": 185, "end_time": 200}]}
+{"video_path": "S000788_P0004_T00", "num_frames": 197, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 172, "end_time": 196}]}
+{"video_path": "S000788_P0008_T00", "num_frames": 147, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 138, "end_time": 146}]}
+{"video_path": "S000791_P0000_T00", "num_frames": 182, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 160, "end_time": 181}]}
+{"video_path": "S000809_P0000_T00", "num_frames": 173, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 153, "end_time": 172}]}
+{"video_path": "S000809_P0004_T00", "num_frames": 266, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 249, "end_time": 265}]}
+{"video_path": "S000823_P0000_T00", "num_frames": 186, "idle_segments": [{"start_time": 0, "end_time": 45}, {"start_time": 165, "end_time": 185}]}
+{"video_path": "S000823_P0008_T00", "num_frames": 194, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 180, "end_time": 193}]}
+{"video_path": "S000849_P0000_T00", "num_frames": 180, "idle_segments": [{"start_time": 0, "end_time": 38}, {"start_time": 159, "end_time": 179}]}
+{"video_path": "S000849_P0004_T00", "num_frames": 116, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 105, "end_time": 115}]}
+{"video_path": "S000852_P0000_T00", "num_frames": 109, "idle_segments": [{"start_time": 90, "end_time": 108}]}
+{"video_path": "S000852_P0008_T00", "num_frames": 117, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 111, "end_time": 116}]}
+{"video_path": "S000860_P0004_T00", "num_frames": 239, "idle_segments": [{"start_time": 199, "end_time": 238}]}
+{"video_path": "S000860_P0008_T00", "num_frames": 202, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 198, "end_time": 201}]}
+{"video_path": "S000874_P0004_T00", "num_frames": 207, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 193, "end_time": 206}]}
+{"video_path": "S000874_P0008_T00", "num_frames": 218, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 206, "end_time": 217}]}
+{"video_path": "S000877_P0004_T00", "num_frames": 220, "idle_segments": [{"start_time": 206, "end_time": 219}]}
+{"video_path": "S000877_P0008_T00", "num_frames": 210, "idle_segments": [{"start_time": 205, "end_time": 209}]}
+{"video_path": "S000903_P0000_T00", "num_frames": 123, "idle_segments": [{"start_time": 109, "end_time": 122}]}
+{"video_path": "S000912_P0008_T00", "num_frames": 184, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 171, "end_time": 183}]}
+{"video_path": "S000914_P0008_T00", "num_frames": 245, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 224, "end_time": 244}]}
+{"video_path": "S000931_P0008_T00", "num_frames": 209, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 190, "end_time": 208}]}
+{"video_path": "S000934_P0008_T00", "num_frames": 269, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 209, "end_time": 268}]}
+{"video_path": "S000937_P0008_T00", "num_frames": 310, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 271, "end_time": 309}]}
+{"video_path": "S000945_P0008_T00", "num_frames": 409, "idle_segments": [{"start_time": 0, "end_time": 7}]}
+{"video_path": "S000962_P0000_T00", "num_frames": 246, "idle_segments": [{"start_time": 0, "end_time": 77}, {"start_time": 228, "end_time": 245}]}
+{"video_path": "S000963_P0008_T00", "num_frames": 244, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 228, "end_time": 243}]}
+{"video_path": "S000966_P0008_T00", "num_frames": 310, "idle_segments": [{"start_time": 0, "end_time": 36}, {"start_time": 291, "end_time": 309}]}
+{"video_path": "S000968_P0008_T00", "num_frames": 203, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 179, "end_time": 202}]}
+{"video_path": "S000969_P0008_T00", "num_frames": 213, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 191, "end_time": 212}]}
+{"video_path": "S000988_P0000_T00", "num_frames": 176, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 156, "end_time": 175}]}
+{"video_path": "S000998_P0000_T00", "num_frames": 123, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 94, "end_time": 122}]}
+{"video_path": "S001026_P0000_T00", "num_frames": 180, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 159, "end_time": 179}]}
+{"video_path": "S001027_P0000_T00", "num_frames": 109, "idle_segments": [{"start_time": 95, "end_time": 108}]}
+{"video_path": "S001030_P0008_T00", "num_frames": 125, "idle_segments": [{"start_time": 106, "end_time": 124}]}
+{"video_path": "S001035_P0000_T00", "num_frames": 175, "idle_segments": [{"start_time": 139, "end_time": 174}]}
+{"video_path": "S001051_P0000_T00", "num_frames": 169, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 151, "end_time": 168}]}
+{"video_path": "S001064_P0008_T00", "num_frames": 169, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 151, "end_time": 168}]}
+{"video_path": "S001072_P0008_T00", "num_frames": 110, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 95, "end_time": 109}]}
+{"video_path": "S001073_P0000_T00", "num_frames": 108, "idle_segments": [{"start_time": 86, "end_time": 107}]}
+{"video_path": "S001081_P0000_T00", "num_frames": 250, "idle_segments": [{"start_time": 0, "end_time": 69}, {"start_time": 219, "end_time": 249}]}
+{"video_path": "S001090_P0000_T00", "num_frames": 145, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 127, "end_time": 144}]}
+{"video_path": "S001091_P0000_T00", "num_frames": 196, "idle_segments": [{"start_time": 0, "end_time": 38}, {"start_time": 180, "end_time": 195}]}
+{"video_path": "S001095_P0008_T00", "num_frames": 214, "idle_segments": [{"start_time": 0, "end_time": 33}, {"start_time": 202, "end_time": 213}]}
+{"video_path": "S001126_P0008_T00", "num_frames": 225, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 186, "end_time": 224}]}
+{"video_path": "S001142_P0000_T00", "num_frames": 167, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 136, "end_time": 166}]}
+{"video_path": "S001143_P0000_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 131, "end_time": 160}]}
+{"video_path": "S001147_P0000_T00", "num_frames": 166, "idle_segments": [{"start_time": 0, "end_time": 18}]}
+{"video_path": "S001164_P0000_T00", "num_frames": 188, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 155, "end_time": 187}]}
+{"video_path": "S001173_P0000_T00", "num_frames": 201, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 170, "end_time": 200}]}
+{"video_path": "S001178_P0008_T00", "num_frames": 233, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 147, "end_time": 232}]}
+{"video_path": "S001186_P0000_T00", "num_frames": 128, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 94, "end_time": 127}]}
+{"video_path": "S001221_P0008_T00", "num_frames": 261, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 241, "end_time": 260}]}
+{"video_path": "S001222_P0004_T00", "num_frames": 175, "idle_segments": [{"start_time": 0, "end_time": 70}, {"start_time": 160, "end_time": 174}]}
+{"video_path": "S001222_P0008_T00", "num_frames": 172, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 151, "end_time": 171}]}
+{"video_path": "S001227_P0000_T00", "num_frames": 155, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 135, "end_time": 154}]}
+{"video_path": "S001227_P0004_T00", "num_frames": 114, "idle_segments": [{"start_time": 107, "end_time": 113}]}
+{"video_path": "S001232_P0000_T00", "num_frames": 173, "idle_segments": [{"start_time": 0, "end_time": 46}, {"start_time": 153, "end_time": 172}]}
+{"video_path": "S001232_P0004_T00", "num_frames": 167, "idle_segments": [{"start_time": 0, "end_time": 47}, {"start_time": 162, "end_time": 166}]}
+{"video_path": "S001236_P0004_T00", "num_frames": 172, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 158, "end_time": 171}]}
+{"video_path": "S001236_P0008_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 146, "end_time": 160}]}
+{"video_path": "S001246_P0000_T00", "num_frames": 113, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 99, "end_time": 112}]}
+{"video_path": "S001246_P0008_T00", "num_frames": 139, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 122, "end_time": 138}]}
+{"video_path": "S001252_P0000_T00", "num_frames": 244, "idle_segments": [{"start_time": 0, "end_time": 59}, {"start_time": 217, "end_time": 243}]}
+{"video_path": "S001260_P0000_T00", "num_frames": 231, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 220, "end_time": 230}]}
+{"video_path": "S001260_P0004_T00", "num_frames": 203, "idle_segments": [{"start_time": 184, "end_time": 202}]}
+{"video_path": "S001266_P0002_T00", "num_frames": 141, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 136, "end_time": 140}]}
+{"video_path": "S001268_P0000_T00", "num_frames": 184, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 170, "end_time": 183}]}
+{"video_path": "S001268_P0008_T00", "num_frames": 294, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 276, "end_time": 293}]}
+{"video_path": "S001292_P0004_T00", "num_frames": 211, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 198, "end_time": 210}]}
+{"video_path": "S001292_P0008_T00", "num_frames": 218, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 199, "end_time": 217}]}
+{"video_path": "S001298_P0004_T00", "num_frames": 194, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 177, "end_time": 193}]}
+{"video_path": "S001308_P0000_T00", "num_frames": 177, "idle_segments": [{"start_time": 0, "end_time": 51}, {"start_time": 163, "end_time": 176}]}
+{"video_path": "S001308_P0004_T00", "num_frames": 157, "idle_segments": [{"start_time": 0, "end_time": 45}, {"start_time": 144, "end_time": 156}]}
+{"video_path": "S001315_P0004_T00", "num_frames": 188, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 181, "end_time": 187}]}
+{"video_path": "S001324_P0000_T00", "num_frames": 248, "idle_segments": [{"start_time": 0, "end_time": 59}, {"start_time": 229, "end_time": 247}]}
+{"video_path": "S001324_P0004_T00", "num_frames": 245, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 231, "end_time": 244}]}
+{"video_path": "S001349_P0000_T00", "num_frames": 176, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 157, "end_time": 175}]}
+{"video_path": "S001354_P0000_T00", "num_frames": 131, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 112, "end_time": 130}]}
+{"video_path": "S001354_P0004_T00", "num_frames": 126, "idle_segments": []}
+{"video_path": "S001356_P0000_T00", "num_frames": 263, "idle_segments": [{"start_time": 0, "end_time": 99}, {"start_time": 252, "end_time": 262}]}
+{"video_path": "S001356_P0008_T00", "num_frames": 235, "idle_segments": [{"start_time": 0, "end_time": 41}, {"start_time": 194, "end_time": 234}]}
+{"video_path": "S001357_P0000_T00", "num_frames": 201, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 193, "end_time": 200}]}
+{"video_path": "S001357_P0008_T00", "num_frames": 272, "idle_segments": [{"start_time": 0, "end_time": 38}, {"start_time": 236, "end_time": 271}]}
+{"video_path": "S001369_P0000_T00", "num_frames": 221, "idle_segments": [{"start_time": 198, "end_time": 220}]}
+{"video_path": "S001369_P0004_T00", "num_frames": 218, "idle_segments": [{"start_time": 199, "end_time": 217}]}
+{"video_path": "S001372_P0000_T00", "num_frames": 181, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 162, "end_time": 180}]}
+{"video_path": "S001372_P0008_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 182, "end_time": 194}]}
+{"video_path": "S001377_P0000_T00", "num_frames": 212, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 202, "end_time": 211}]}
+{"video_path": "S001377_P0008_T00", "num_frames": 240, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 222, "end_time": 239}]}
+{"video_path": "S001401_P0008_T00", "num_frames": 179, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 165, "end_time": 178}]}
+{"video_path": "S001403_P0004_T00", "num_frames": 147, "idle_segments": [{"start_time": 0, "end_time": 9}]}
+{"video_path": "S001403_P0008_T00", "num_frames": 157, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 136, "end_time": 156}]}
+{"video_path": "S001409_P0000_T00", "num_frames": 224, "idle_segments": [{"start_time": 0, "end_time": 62}, {"start_time": 201, "end_time": 223}]}
+{"video_path": "S001409_P0008_T00", "num_frames": 213, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 195, "end_time": 212}]}
+{"video_path": "S001414_P0008_T00", "num_frames": 182, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 168, "end_time": 181}]}
+{"video_path": "S001415_P0000_T00", "num_frames": 156, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 133, "end_time": 155}]}
+{"video_path": "S001415_P0004_T00", "num_frames": 135, "idle_segments": [{"start_time": 118, "end_time": 134}]}
+{"video_path": "S001417_P0004_T00", "num_frames": 144, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 128, "end_time": 143}]}
+{"video_path": "S001417_P0008_T00", "num_frames": 181, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 164, "end_time": 180}]}
+{"video_path": "S001423_P0000_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 170, "end_time": 194}]}
+{"video_path": "S001423_P0004_T00", "num_frames": 179, "idle_segments": [{"start_time": 165, "end_time": 178}]}
+{"video_path": "S001425_P0000_T00", "num_frames": 188, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 184, "end_time": 187}]}
+{"video_path": "S001425_P0008_T00", "num_frames": 192, "idle_segments": [{"start_time": 0, "end_time": 31}, {"start_time": 174, "end_time": 191}]}
+{"video_path": "S001430_P0008_T00", "num_frames": 303, "idle_segments": [{"start_time": 0, "end_time": 70}, {"start_time": 282, "end_time": 302}]}
+{"video_path": "S001432_P0004_T00", "num_frames": 157, "idle_segments": [{"start_time": 0, "end_time": 2}]}
+{"video_path": "S001447_P0004_T00", "num_frames": 140, "idle_segments": [{"start_time": 133, "end_time": 139}]}
+{"video_path": "S001447_P0008_T00", "num_frames": 231, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 193, "end_time": 230}]}
+{"video_path": "S001456_P0000_T00", "num_frames": 229, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 216, "end_time": 228}]}
+{"video_path": "S001489_P0004_T00", "num_frames": 205, "idle_segments": [{"start_time": 188, "end_time": 204}]}
+{"video_path": "S001489_P0008_T00", "num_frames": 236, "idle_segments": [{"start_time": 0, "end_time": 45}, {"start_time": 220, "end_time": 235}]}
+{"video_path": "S001507_P0004_T00", "num_frames": 179, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 169, "end_time": 178}]}
+{"video_path": "S001507_P0008_T00", "num_frames": 211, "idle_segments": [{"start_time": 0, "end_time": 42}, {"start_time": 179, "end_time": 210}]}
+{"video_path": "S001509_P0004_T00", "num_frames": 179, "idle_segments": [{"start_time": 164, "end_time": 178}]}
+{"video_path": "S001515_P0004_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 144, "end_time": 160}]}
+{"video_path": "S001515_P0008_T00", "num_frames": 182, "idle_segments": [{"start_time": 0, "end_time": 43}, {"start_time": 160, "end_time": 181}]}
+{"video_path": "S001517_P0000_T00", "num_frames": 99, "idle_segments": [{"start_time": 91, "end_time": 98}]}
+{"video_path": "S001517_P0004_T00", "num_frames": 97, "idle_segments": [{"start_time": 77, "end_time": 96}]}
+{"video_path": "S001568_P0004_T00", "num_frames": 178, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 159, "end_time": 177}]}
+{"video_path": "S001568_P0008_T00", "num_frames": 243, "idle_segments": [{"start_time": 0, "end_time": 34}, {"start_time": 224, "end_time": 242}]}
+{"video_path": "S001574_P0004_T00", "num_frames": 137, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 127, "end_time": 136}]}
+{"video_path": "S001574_P0008_T00", "num_frames": 217, "idle_segments": [{"start_time": 0, "end_time": 44}, {"start_time": 194, "end_time": 216}]}
+{"video_path": "S001610_P0004_T00", "num_frames": 153, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 142, "end_time": 152}]}
+{"video_path": "S001610_P0005_T00", "num_frames": 177, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 174, "end_time": 176}]}
+{"video_path": "S001625_P0005_T00", "num_frames": 217, "idle_segments": [{"start_time": 0, "end_time": 39}, {"start_time": 156, "end_time": 216}]}
+{"video_path": "S001641_P0000_T00", "num_frames": 165, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 148, "end_time": 164}]}
+{"video_path": "S001641_P0004_T00", "num_frames": 153, "idle_segments": [{"start_time": 138, "end_time": 152}]}
+{"video_path": "S001656_P0004_T00", "num_frames": 162, "idle_segments": [{"start_time": 151, "end_time": 161}]}
+{"video_path": "S001656_P0005_T00", "num_frames": 164, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 148, "end_time": 163}]}
+{"video_path": "S001667_P0000_T00", "num_frames": 308, "idle_segments": [{"start_time": 0, "end_time": 51}, {"start_time": 297, "end_time": 307}]}
+{"video_path": "S001667_P0005_T00", "num_frames": 323, "idle_segments": [{"start_time": 0, "end_time": 66}, {"start_time": 311, "end_time": 322}]}
+{"video_path": "S001685_P0000_T00", "num_frames": 244, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 232, "end_time": 243}]}
+{"video_path": "S001687_P0000_T00", "num_frames": 137, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 136, "end_time": 136}]}
+{"video_path": "S001687_P0005_T00", "num_frames": 152, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 133, "end_time": 151}]}
+{"video_path": "S001702_P0000_T00", "num_frames": 197, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 182, "end_time": 196}]}
+{"video_path": "S001702_P0004_T00", "num_frames": 191, "idle_segments": [{"start_time": 172, "end_time": 190}]}
+{"video_path": "S001705_P0004_T00", "num_frames": 242, "idle_segments": [{"start_time": 233, "end_time": 241}]}
+{"video_path": "S001705_P0005_T00", "num_frames": 266, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 255, "end_time": 265}]}
+{"video_path": "S001711_P0000_T00", "num_frames": 177, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 154, "end_time": 176}]}
+{"video_path": "S001711_P0005_T00", "num_frames": 174, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 147, "end_time": 173}]}
+{"video_path": "S001717_P0000_T00", "num_frames": 221, "idle_segments": [{"start_time": 0, "end_time": 47}, {"start_time": 199, "end_time": 220}]}
+{"video_path": "S001717_P0005_T00", "num_frames": 277, "idle_segments": [{"start_time": 0, "end_time": 72}, {"start_time": 231, "end_time": 276}]}
+{"video_path": "S001735_P0004_T00", "num_frames": 153, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 133, "end_time": 152}]}
+{"video_path": "S001735_P0005_T00", "num_frames": 220, "idle_segments": [{"start_time": 0, "end_time": 42}, {"start_time": 172, "end_time": 219}]}
+{"video_path": "S001743_P0000_T00", "num_frames": 206, "idle_segments": [{"start_time": 0, "end_time": 33}, {"start_time": 190, "end_time": 205}]}
+{"video_path": "S001743_P0004_T00", "num_frames": 197, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 181, "end_time": 196}]}
+{"video_path": "S001747_P0000_T00", "num_frames": 178, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 168, "end_time": 177}]}
+{"video_path": "S001747_P0004_T00", "num_frames": 144, "idle_segments": [{"start_time": 130, "end_time": 143}]}
+{"video_path": "S001754_P0000_T00", "num_frames": 232, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 216, "end_time": 231}]}
+{"video_path": "S001754_P0004_T00", "num_frames": 228, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 224, "end_time": 227}]}
+{"video_path": "S001759_P0005_T00", "num_frames": 196, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 179, "end_time": 195}]}
+{"video_path": "S001769_P0004_T00", "num_frames": 94, "idle_segments": [{"start_time": 80, "end_time": 93}]}
+{"video_path": "S001769_P0005_T00", "num_frames": 163, "idle_segments": [{"start_time": 0, "end_time": 35}, {"start_time": 109, "end_time": 162}]}
+{"video_path": "S001788_P0000_T00", "num_frames": 227, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 216, "end_time": 226}]}
+{"video_path": "S001788_P0005_T00", "num_frames": 360, "idle_segments": [{"start_time": 0, "end_time": 46}, {"start_time": 253, "end_time": 359}]}
+{"video_path": "S001798_P0000_T00", "num_frames": 203, "idle_segments": [{"start_time": 0, "end_time": 46}, {"start_time": 188, "end_time": 202}]}
+{"video_path": "S001798_P0005_T00", "num_frames": 244, "idle_segments": [{"start_time": 0, "end_time": 66}, {"start_time": 207, "end_time": 243}]}
+{"video_path": "S001808_P0000_T00", "num_frames": 156, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 144, "end_time": 155}]}
+{"video_path": "S001813_P0000_T00", "num_frames": 148, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 147, "end_time": 147}]}
+{"video_path": "S001813_P0005_T00", "num_frames": 188, "idle_segments": [{"start_time": 0, "end_time": 35}, {"start_time": 163, "end_time": 187}]}
+{"video_path": "S001815_P0000_T00", "num_frames": 255, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 241, "end_time": 254}]}
+{"video_path": "S001822_P0000_T00", "num_frames": 169, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 150, "end_time": 168}]}
+{"video_path": "S001822_P0004_T00", "num_frames": 145, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 130, "end_time": 144}]}
+{"video_path": "S001841_P0004_T00", "num_frames": 189, "idle_segments": [{"start_time": 0, "end_time": 71}, {"start_time": 167, "end_time": 188}]}
+{"video_path": "S001841_P0005_T00", "num_frames": 255, "idle_segments": [{"start_time": 0, "end_time": 111}, {"start_time": 212, "end_time": 254}]}
+{"video_path": "S001851_P0005_T00", "num_frames": 208, "idle_segments": [{"start_time": 0, "end_time": 37}, {"start_time": 170, "end_time": 207}]}
+{"video_path": "S001874_P0000_T00", "num_frames": 311, "idle_segments": [{"start_time": 0, "end_time": 57}, {"start_time": 303, "end_time": 310}]}
+{"video_path": "S001874_P0004_T00", "num_frames": 280, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 267, "end_time": 279}]}
+{"video_path": "S001882_P0004_T00", "num_frames": 247, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 241, "end_time": 246}]}
+{"video_path": "S001882_P0005_T00", "num_frames": 312, "idle_segments": [{"start_time": 0, "end_time": 59}, {"start_time": 298, "end_time": 311}]}
+{"video_path": "S001891_P0000_T00", "num_frames": 218, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 196, "end_time": 217}]}
+{"video_path": "S001891_P0004_T00", "num_frames": 169, "idle_segments": [{"start_time": 153, "end_time": 168}]}
+{"video_path": "S001894_P0000_T00", "num_frames": 227, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 215, "end_time": 226}]}
+{"video_path": "S001894_P0004_T00", "num_frames": 210, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 198, "end_time": 209}]}
+{"video_path": "S001900_P0004_T00", "num_frames": 184, "idle_segments": [{"start_time": 169, "end_time": 183}]}
+{"video_path": "S001900_P0005_T00", "num_frames": 223, "idle_segments": [{"start_time": 0, "end_time": 35}, {"start_time": 202, "end_time": 222}]}
+{"video_path": "S001902_P0000_T00", "num_frames": 321, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 299, "end_time": 320}]}
+{"video_path": "S001902_P0005_T00", "num_frames": 337, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 308, "end_time": 336}]}
+{"video_path": "S001923_P0004_T00", "num_frames": 256, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 240, "end_time": 255}]}
+{"video_path": "S001923_P0005_T00", "num_frames": 294, "idle_segments": [{"start_time": 0, "end_time": 31}]}
+{"video_path": "S001927_P0000_T00", "num_frames": 197, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 170, "end_time": 196}]}
+{"video_path": "S001927_P0005_T00", "num_frames": 220, "idle_segments": [{"start_time": 0, "end_time": 35}, {"start_time": 205, "end_time": 219}]}
+{"video_path": "S001954_P0000_T00", "num_frames": 225, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 210, "end_time": 224}]}
+{"video_path": "S001954_P0004_T00", "num_frames": 237, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 221, "end_time": 236}]}
+{"video_path": "S001960_P0004_T00", "num_frames": 297, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 276, "end_time": 296}]}
+{"video_path": "S001960_P0005_T00", "num_frames": 350, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 313, "end_time": 349}]}
+{"video_path": "S001965_P0000_T00", "num_frames": 321, "idle_segments": [{"start_time": 0, "end_time": 50}, {"start_time": 299, "end_time": 320}]}
+{"video_path": "S001965_P0005_T00", "num_frames": 335, "idle_segments": [{"start_time": 0, "end_time": 63}, {"start_time": 312, "end_time": 334}]}
+{"video_path": "S001969_P0000_T00", "num_frames": 191, "idle_segments": [{"start_time": 0, "end_time": 47}, {"start_time": 185, "end_time": 190}]}
+{"video_path": "S001975_P0000_T00", "num_frames": 196, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 174, "end_time": 195}]}
+{"video_path": "S001975_P0004_T00", "num_frames": 190, "idle_segments": [{"start_time": 151, "end_time": 189}]}
+{"video_path": "S001978_P0000_T00", "num_frames": 225, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 205, "end_time": 224}]}
+{"video_path": "S001978_P0005_T00", "num_frames": 259, "idle_segments": [{"start_time": 0, "end_time": 58}, {"start_time": 239, "end_time": 258}]}
+{"video_path": "S001981_P0000_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 184, "end_time": 194}]}
+{"video_path": "S001996_P0004_T00", "num_frames": 276, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 253, "end_time": 275}]}
+{"video_path": "S001996_P0005_T00", "num_frames": 322, "idle_segments": [{"start_time": 0, "end_time": 40}, {"start_time": 306, "end_time": 321}]}
+{"video_path": "S002001_P0007_T00", "num_frames": 385, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 368, "end_time": 384}]}
+{"video_path": "S002004_P0000_T00", "num_frames": 236, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 213, "end_time": 235}]}
+{"video_path": "S002004_P0005_T00", "num_frames": 282, "idle_segments": [{"start_time": 0, "end_time": 36}, {"start_time": 255, "end_time": 281}]}
+{"video_path": "S002007_P0000_T00", "num_frames": 106, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 95, "end_time": 105}]}
+{"video_path": "S002007_P0007_T00", "num_frames": 118, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 110, "end_time": 117}]}
+{"video_path": "S002009_P0000_T00", "num_frames": 168, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 158, "end_time": 167}]}
+{"video_path": "S002009_P0005_T00", "num_frames": 180, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 177, "end_time": 179}]}
+{"video_path": "S002018_P0005_T00", "num_frames": 323, "idle_segments": [{"start_time": 0, "end_time": 67}, {"start_time": 309, "end_time": 322}]}
+{"video_path": "S002025_P0000_T00", "num_frames": 146, "idle_segments": [{"start_time": 134, "end_time": 145}]}
+{"video_path": "S002025_P0005_T00", "num_frames": 164, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 141, "end_time": 163}]}
+{"video_path": "S002026_P0000_T00", "num_frames": 265, "idle_segments": [{"start_time": 0, "end_time": 38}, {"start_time": 239, "end_time": 264}]}
+{"video_path": "S002026_P0005_T00", "num_frames": 218, "idle_segments": [{"start_time": 199, "end_time": 217}]}
+{"video_path": "S002043_P0000_T00", "num_frames": 255, "idle_segments": [{"start_time": 0, "end_time": 29}, {"start_time": 241, "end_time": 254}]}
+{"video_path": "S002043_P0007_T00", "num_frames": 268, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 247, "end_time": 267}]}
+{"video_path": "S002053_P0005_T00", "num_frames": 393, "idle_segments": [{"start_time": 0, "end_time": 51}, {"start_time": 381, "end_time": 392}]}
+{"video_path": "S002053_P0007_T00", "num_frames": 356, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 327, "end_time": 355}]}
+{"video_path": "S002062_P0000_T00", "num_frames": 314, "idle_segments": [{"start_time": 0, "end_time": 68}, {"start_time": 301, "end_time": 313}]}
+{"video_path": "S002062_P0007_T00", "num_frames": 230, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 217, "end_time": 229}]}
+{"video_path": "S002063_P0000_T00", "num_frames": 193, "idle_segments": [{"start_time": 0, "end_time": 45}, {"start_time": 169, "end_time": 192}]}
+{"video_path": "S002067_P0000_T00", "num_frames": 180, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 155, "end_time": 179}]}
+{"video_path": "S002067_P0007_T00", "num_frames": 323, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 164, "end_time": 322}]}
+{"video_path": "S002085_P0005_T00", "num_frames": 349, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 327, "end_time": 348}]}
+{"video_path": "S002085_P0007_T00", "num_frames": 289, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 275, "end_time": 288}]}
+{"video_path": "S002086_P0005_T00", "num_frames": 217, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 189, "end_time": 216}]}
+{"video_path": "S002086_P0007_T00", "num_frames": 191, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 174, "end_time": 190}]}
+{"video_path": "S002092_P0000_T00", "num_frames": 176, "idle_segments": [{"start_time": 0, "end_time": 34}, {"start_time": 167, "end_time": 175}]}
+{"video_path": "S002092_P0007_T00", "num_frames": 235, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 138, "end_time": 234}]}
+{"video_path": "S002093_P0005_T00", "num_frames": 278, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 253, "end_time": 277}]}
+{"video_path": "S002093_P0007_T00", "num_frames": 307, "idle_segments": [{"start_time": 0, "end_time": 52}, {"start_time": 298, "end_time": 306}]}
+{"video_path": "S002118_P0000_T00", "num_frames": 220, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 189, "end_time": 219}]}
+{"video_path": "S002118_P0005_T00", "num_frames": 259, "idle_segments": [{"start_time": 0, "end_time": 53}, {"start_time": 248, "end_time": 258}]}
+{"video_path": "S002122_P0005_T00", "num_frames": 328, "idle_segments": [{"start_time": 0, "end_time": 120}, {"start_time": 322, "end_time": 327}]}
+{"video_path": "S002122_P0007_T00", "num_frames": 269, "idle_segments": [{"start_time": 0, "end_time": 40}, {"start_time": 217, "end_time": 268}]}
+{"video_path": "S002128_P0000_T00", "num_frames": 209, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 171, "end_time": 208}]}
+{"video_path": "S002128_P0005_T00", "num_frames": 332, "idle_segments": [{"start_time": 0, "end_time": 134}, {"start_time": 317, "end_time": 331}]}
+{"video_path": "S002132_P0005_T00", "num_frames": 258, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 250, "end_time": 257}]}
+{"video_path": "S002132_P0007_T00", "num_frames": 295, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 263, "end_time": 294}]}
+{"video_path": "S002133_P0000_T00", "num_frames": 222, "idle_segments": [{"start_time": 0, "end_time": 50}, {"start_time": 182, "end_time": 221}]}
+{"video_path": "S002133_P0005_T00", "num_frames": 164, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 161, "end_time": 163}]}
+{"video_path": "S002143_P0000_T00", "num_frames": 158, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 121, "end_time": 157}]}
+{"video_path": "S002143_P0007_T00", "num_frames": 173, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 145, "end_time": 172}]}
+{"video_path": "S002149_P0000_T00", "num_frames": 220, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 172, "end_time": 219}]}
+{"video_path": "S002149_P0005_T00", "num_frames": 240, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 212, "end_time": 239}]}
+{"video_path": "S002150_P0000_T00", "num_frames": 140, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 107, "end_time": 139}]}
+{"video_path": "S002150_P0005_T00", "num_frames": 169, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 152, "end_time": 168}]}
+{"video_path": "S002162_P0000_T00", "num_frames": 193, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 174, "end_time": 192}]}
+{"video_path": "S002162_P0007_T00", "num_frames": 263, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 243, "end_time": 262}]}
+{"video_path": "S002164_P0000_T00", "num_frames": 184, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 153, "end_time": 183}]}
+{"video_path": "S002164_P0007_T00", "num_frames": 189, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 177, "end_time": 188}]}
+{"video_path": "S002167_P0000_T00", "num_frames": 174, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 137, "end_time": 173}]}
+{"video_path": "S002167_P0007_T00", "num_frames": 215, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 165, "end_time": 214}]}
+{"video_path": "S002176_P0000_T00", "num_frames": 185, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 158, "end_time": 184}]}
+{"video_path": "S002176_P0005_T00", "num_frames": 159, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 132, "end_time": 158}]}
+{"video_path": "S002198_P0000_T00", "num_frames": 272, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 235, "end_time": 271}]}
+{"video_path": "S002198_P0005_T00", "num_frames": 273, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 258, "end_time": 272}]}
+{"video_path": "S002199_P0005_T00", "num_frames": 182, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 162, "end_time": 181}]}
+{"video_path": "S002199_P0007_T00", "num_frames": 153, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 138, "end_time": 152}]}
+{"video_path": "S002202_P0005_T00", "num_frames": 225, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 204, "end_time": 224}]}
+{"video_path": "S002202_P0007_T00", "num_frames": 308, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 283, "end_time": 307}]}
+{"video_path": "S002208_P0000_T00", "num_frames": 146, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 141, "end_time": 145}]}
+{"video_path": "S002208_P0005_T00", "num_frames": 227, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 208, "end_time": 226}]}
+{"video_path": "S002210_P0005_T00", "num_frames": 246, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 227, "end_time": 245}]}
+{"video_path": "S002210_P0007_T00", "num_frames": 275, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 240, "end_time": 274}]}
+{"video_path": "S002217_P0000_T00", "num_frames": 233, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 201, "end_time": 232}]}
+{"video_path": "S002217_P0005_T00", "num_frames": 220, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 199, "end_time": 219}]}
+{"video_path": "S002228_P0000_T00", "num_frames": 187, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 153, "end_time": 186}]}
+{"video_path": "S002228_P0005_T00", "num_frames": 167, "idle_segments": [{"start_time": 145, "end_time": 166}]}
+{"video_path": "S002239_P0005_T00", "num_frames": 246, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 224, "end_time": 245}]}
+{"video_path": "S002240_P0000_T00", "num_frames": 159, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 135, "end_time": 158}]}
+{"video_path": "S002240_P0005_T00", "num_frames": 157, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 134, "end_time": 156}]}
+{"video_path": "S002245_P0000_T00", "num_frames": 235, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 208, "end_time": 234}]}
+{"video_path": "S002245_P0007_T00", "num_frames": 284, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 246, "end_time": 283}]}
+{"video_path": "S002256_P0005_T00", "num_frames": 198, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 175, "end_time": 197}]}
+{"video_path": "S002256_P0007_T00", "num_frames": 228, "idle_segments": [{"start_time": 0, "end_time": 10}]}
+{"video_path": "S002261_P0007_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 175, "end_time": 194}]}
+{"video_path": "S002264_P0000_T00", "num_frames": 234, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 222, "end_time": 233}]}
+{"video_path": "S002264_P0007_T00", "num_frames": 261, "idle_segments": [{"start_time": 0, "end_time": 1}]}
+{"video_path": "S002269_P0000_T00", "num_frames": 240, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 205, "end_time": 239}]}
+{"video_path": "S002269_P0005_T00", "num_frames": 243, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 228, "end_time": 242}]}
+{"video_path": "S002274_P0005_T00", "num_frames": 141, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 123, "end_time": 140}]}
+{"video_path": "S002274_P0007_T00", "num_frames": 141, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 126, "end_time": 140}]}
+{"video_path": "S002295_P0005_T00", "num_frames": 174, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 145, "end_time": 173}]}
+{"video_path": "S002299_P0000_T00", "num_frames": 210, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 182, "end_time": 209}]}
+{"video_path": "S002303_P0005_T00", "num_frames": 162, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 142, "end_time": 161}]}
+{"video_path": "S002307_P0005_T00", "num_frames": 146, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 119, "end_time": 145}]}
+{"video_path": "S002307_P0007_T00", "num_frames": 142, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 122, "end_time": 141}]}
+{"video_path": "S002316_P0005_T00", "num_frames": 163, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 121, "end_time": 162}]}
+{"video_path": "S002316_P0007_T00", "num_frames": 211, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 209, "end_time": 210}]}
+{"video_path": "S002330_P0000_T00", "num_frames": 109, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 91, "end_time": 108}]}
+{"video_path": "S002339_P0000_T00", "num_frames": 198, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 170, "end_time": 197}]}
+{"video_path": "S002339_P0007_T00", "num_frames": 173, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 155, "end_time": 172}]}
+{"video_path": "S002347_P0000_T00", "num_frames": 165, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 151, "end_time": 164}]}
+{"video_path": "S002370_P0000_T00", "num_frames": 122, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 95, "end_time": 121}]}
+{"video_path": "S002370_P0005_T00", "num_frames": 136, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 111, "end_time": 135}]}
+{"video_path": "S002376_P0005_T00", "num_frames": 209, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 192, "end_time": 208}]}
+{"video_path": "S002376_P0007_T00", "num_frames": 129, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 117, "end_time": 128}]}
+{"video_path": "S002380_P0007_T00", "num_frames": 113, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 93, "end_time": 112}]}
+{"video_path": "S002390_P0000_T00", "num_frames": 107, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 86, "end_time": 106}]}
+{"video_path": "S002397_P0005_T00", "num_frames": 192, "idle_segments": [{"start_time": 0, "end_time": 29}, {"start_time": 172, "end_time": 191}]}
+{"video_path": "S002397_P0007_T00", "num_frames": 170, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 162, "end_time": 169}]}
+{"video_path": "S002403_P0007_T00", "num_frames": 161, "idle_segments": [{"start_time": 149, "end_time": 160}]}
+{"video_path": "S002410_P0000_T00", "num_frames": 155, "idle_segments": [{"start_time": 136, "end_time": 154}]}
+{"video_path": "S002410_P0007_T00", "num_frames": 174, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 160, "end_time": 173}]}
+{"video_path": "S002420_P0005_T00", "num_frames": 172, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 138, "end_time": 171}]}
+{"video_path": "S002421_P0005_T00", "num_frames": 211, "idle_segments": [{"start_time": 0, "end_time": 51}, {"start_time": 197, "end_time": 210}]}
+{"video_path": "S002430_P0005_T00", "num_frames": 133, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 113, "end_time": 132}]}
+{"video_path": "S002430_P0007_T00", "num_frames": 212, "idle_segments": [{"start_time": 0, "end_time": 45}]}
+{"video_path": "S002432_P0005_T00", "num_frames": 143, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 108, "end_time": 142}]}
+{"video_path": "S002432_P0007_T00", "num_frames": 131, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 124, "end_time": 130}]}
+{"video_path": "S002439_P0005_T00", "num_frames": 154, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 137, "end_time": 153}]}
+{"video_path": "S002441_P0007_T00", "num_frames": 154, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 140, "end_time": 153}]}
+{"video_path": "S002443_P0007_T00", "num_frames": 120, "idle_segments": [{"start_time": 106, "end_time": 119}]}
+{"video_path": "S002449_P0000_T00", "num_frames": 214, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 188, "end_time": 213}]}
+{"video_path": "S002449_P0005_T00", "num_frames": 222, "idle_segments": [{"start_time": 0, "end_time": 32}, {"start_time": 198, "end_time": 221}]}
+{"video_path": "S002454_P0000_T00", "num_frames": 197, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 166, "end_time": 196}]}
+{"video_path": "S002454_P0007_T00", "num_frames": 211, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 201, "end_time": 210}]}
+{"video_path": "S002461_P0007_T00", "num_frames": 208, "idle_segments": [{"start_time": 183, "end_time": 207}]}
+{"video_path": "S002470_P0007_T00", "num_frames": 160, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 145, "end_time": 159}]}
+{"video_path": "S002476_P0005_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 36}, {"start_time": 169, "end_time": 194}]}
+{"video_path": "S002476_P0007_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 147, "end_time": 160}]}
+{"video_path": "S002479_P0005_T00", "num_frames": 147, "idle_segments": [{"start_time": 0, "end_time": 32}, {"start_time": 122, "end_time": 146}]}
+{"video_path": "S002486_P0000_T00", "num_frames": 229, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 189, "end_time": 228}]}
+{"video_path": "S002486_P0005_T00", "num_frames": 246, "idle_segments": [{"start_time": 0, "end_time": 45}, {"start_time": 220, "end_time": 245}]}
+{"video_path": "S002495_P0000_T00", "num_frames": 191, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 151, "end_time": 190}]}
+{"video_path": "S002500_P0005_T00", "num_frames": 277, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 204, "end_time": 276}]}
+{"video_path": "S002500_P0007_T00", "num_frames": 240, "idle_segments": [{"start_time": 0, "end_time": 31}, {"start_time": 219, "end_time": 239}]}
+{"video_path": "S002504_P0005_T00", "num_frames": 215, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 214, "end_time": 214}]}
+{"video_path": "S002504_P0007_T00", "num_frames": 239, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 218, "end_time": 238}]}
+{"video_path": "S002520_P0005_T00", "num_frames": 213, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 190, "end_time": 212}]}
+{"video_path": "S002520_P0007_T00", "num_frames": 220, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 179, "end_time": 219}]}
+{"video_path": "S002529_P0000_T00", "num_frames": 187, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 112, "end_time": 186}]}
+{"video_path": "S002533_P0005_T00", "num_frames": 169, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 140, "end_time": 168}]}
+{"video_path": "S002533_P0007_T00", "num_frames": 172, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 155, "end_time": 171}]}
+{"video_path": "S002550_P0000_T00", "num_frames": 98, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 64, "end_time": 97}]}
+{"video_path": "S002550_P0007_T00", "num_frames": 113, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 87, "end_time": 112}]}
+{"video_path": "S002562_P0005_T00", "num_frames": 146, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 138, "end_time": 145}]}
+{"video_path": "S002578_P0000_T00", "num_frames": 168, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 149, "end_time": 167}]}
+{"video_path": "S002578_P0005_T00", "num_frames": 178, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 152, "end_time": 177}]}
+{"video_path": "S002580_P0000_T00", "num_frames": 168, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 146, "end_time": 167}]}
+{"video_path": "S002592_P0005_T00", "num_frames": 169, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 144, "end_time": 168}]}
+{"video_path": "S002595_P0000_T00", "num_frames": 85, "idle_segments": [{"start_time": 71, "end_time": 84}]}
+{"video_path": "S002595_P0007_T00", "num_frames": 148, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 107, "end_time": 147}]}
+{"video_path": "S002607_P0000_T00", "num_frames": 175, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 166, "end_time": 174}]}
+{"video_path": "S002607_P0002_T00", "num_frames": 204, "idle_segments": [{"start_time": 0, "end_time": 71}, {"start_time": 195, "end_time": 203}]}
+{"video_path": "S002608_P0000_T00", "num_frames": 143, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 130, "end_time": 142}]}
+{"video_path": "S002608_P0002_T00", "num_frames": 150, "idle_segments": [{"start_time": 0, "end_time": 32}, {"start_time": 138, "end_time": 149}]}
+{"video_path": "S002646_P0000_T00", "num_frames": 140, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 128, "end_time": 139}]}
+{"video_path": "S002656_P0002_T00", "num_frames": 116, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 108, "end_time": 115}]}
+{"video_path": "S002660_P0002_T00", "num_frames": 189, "idle_segments": [{"start_time": 182, "end_time": 188}]}
+{"video_path": "S002668_P0002_T00", "num_frames": 116, "idle_segments": []}
+{"video_path": "S002677_P0000_T00", "num_frames": 49, "idle_segments": [{"start_time": 41, "end_time": 48}]}
+{"video_path": "S002687_P0002_T00", "num_frames": 241, "idle_segments": [{"start_time": 0, "end_time": 172}, {"start_time": 236, "end_time": 240}]}
+{"video_path": "S002689_P0002_T00", "num_frames": 120, "idle_segments": []}
+{"video_path": "S002702_P0002_T00", "num_frames": 178, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 172, "end_time": 177}]}
+{"video_path": "S002706_P0002_T00", "num_frames": 234, "idle_segments": [{"start_time": 0, "end_time": 35}, {"start_time": 233, "end_time": 233}]}
+{"video_path": "S002709_P0002_T00", "num_frames": 163, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 156, "end_time": 162}]}
+{"video_path": "S002710_P0002_T00", "num_frames": 180, "idle_segments": [{"start_time": 0, "end_time": 43}, {"start_time": 170, "end_time": 179}]}
+{"video_path": "S002744_P0002_T00", "num_frames": 312, "idle_segments": [{"start_time": 301, "end_time": 311}]}
+{"video_path": "S002762_P0000_T00", "num_frames": 151, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 144, "end_time": 150}]}
+{"video_path": "S002763_P0002_T00", "num_frames": 357, "idle_segments": [{"start_time": 0, "end_time": 125}, {"start_time": 346, "end_time": 356}]}
+{"video_path": "S002764_P0002_T00", "num_frames": 162, "idle_segments": [{"start_time": 153, "end_time": 161}]}
+{"video_path": "S002785_P0002_T00", "num_frames": 62, "idle_segments": [{"start_time": 49, "end_time": 61}]}
+{"video_path": "S002790_P0002_T00", "num_frames": 170, "idle_segments": [{"start_time": 161, "end_time": 169}]}
+{"video_path": "S002794_P0000_T00", "num_frames": 128, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 118, "end_time": 127}]}
+{"video_path": "S002804_P0000_T00", "num_frames": 146, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 135, "end_time": 145}]}
+{"video_path": "S002810_P0002_T00", "num_frames": 104, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 96, "end_time": 103}]}
+{"video_path": "S002820_P0002_T00", "num_frames": 117, "idle_segments": [{"start_time": 109, "end_time": 116}]}
+{"video_path": "S002824_P0002_T00", "num_frames": 124, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 118, "end_time": 123}]}
+{"video_path": "S002828_P0000_T00", "num_frames": 188, "idle_segments": [{"start_time": 170, "end_time": 187}]}
+{"video_path": "S002848_P0000_T00", "num_frames": 121, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 103, "end_time": 120}]}
+{"video_path": "S002852_P0002_T00", "num_frames": 95, "idle_segments": [{"start_time": 90, "end_time": 94}]}
+{"video_path": "S002862_P0000_T00", "num_frames": 118, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 105, "end_time": 117}]}
+{"video_path": "S002864_P0002_T00", "num_frames": 134, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 128, "end_time": 133}]}
+{"video_path": "S002878_P0002_T00", "num_frames": 141, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 131, "end_time": 140}]}
+{"video_path": "S002886_P0002_T00", "num_frames": 151, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 147, "end_time": 150}]}
+{"video_path": "S002898_P0002_T00", "num_frames": 154, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 145, "end_time": 153}]}
+{"video_path": "S002899_P0002_T00", "num_frames": 62, "idle_segments": []}
+{"video_path": "S002909_P0002_T00", "num_frames": 242, "idle_segments": [{"start_time": 0, "end_time": 142}, {"start_time": 225, "end_time": 241}]}
+{"video_path": "S002937_P0000_T00", "num_frames": 118, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 105, "end_time": 117}]}
+{"video_path": "S002942_P0000_T00", "num_frames": 194, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 175, "end_time": 193}]}
+{"video_path": "S002947_P0002_T00", "num_frames": 153, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 143, "end_time": 152}]}
+{"video_path": "S002951_P0002_T00", "num_frames": 151, "idle_segments": [{"start_time": 146, "end_time": 150}]}
+{"video_path": "S002958_P0002_T00", "num_frames": 117, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 109, "end_time": 116}]}
+{"video_path": "S002970_P0002_T00", "num_frames": 134, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 126, "end_time": 133}]}
+{"video_path": "S002991_P0002_T00", "num_frames": 115, "idle_segments": [{"start_time": 110, "end_time": 114}]}
+{"video_path": "S002998_P0002_T00", "num_frames": 125, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 118, "end_time": 124}]}
+{"video_path": "S003002_P0000_T00", "num_frames": 122, "idle_segments": [{"start_time": 111, "end_time": 121}]}
+{"video_path": "S003016_P0000_T00", "num_frames": 111, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 96, "end_time": 110}]}
+{"video_path": "S003026_P0000_T00", "num_frames": 121, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 108, "end_time": 120}]}
+{"video_path": "S003031_P0000_T00", "num_frames": 144, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 130, "end_time": 143}]}
+{"video_path": "S003033_P0000_T00", "num_frames": 189, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 165, "end_time": 188}]}
+{"video_path": "S003036_P0000_T00", "num_frames": 168, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 151, "end_time": 167}]}
+{"video_path": "S003046_P0000_T00", "num_frames": 158, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 146, "end_time": 157}]}
+{"video_path": "S003065_P0000_T00", "num_frames": 142, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 119, "end_time": 141}]}
+{"video_path": "S003076_P0000_T00", "num_frames": 136, "idle_segments": [{"start_time": 0, "end_time": 37}, {"start_time": 122, "end_time": 135}]}
+{"video_path": "S003078_P0002_T00", "num_frames": 172, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 165, "end_time": 171}]}
+{"video_path": "S003092_P0002_T00", "num_frames": 156, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 153, "end_time": 155}]}
+{"video_path": "S003101_P0000_T00", "num_frames": 159, "idle_segments": [{"start_time": 0, "end_time": 32}, {"start_time": 142, "end_time": 158}]}
+{"video_path": "S003131_P0001_T00", "num_frames": 122, "idle_segments": [{"start_time": 0, "end_time": 60}]}
+{"video_path": "S003131_P0002_T00", "num_frames": 93, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 68, "end_time": 92}]}
+{"video_path": "S003140_P0000_T00", "num_frames": 115, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 109, "end_time": 114}]}
+{"video_path": "S003146_P0000_T00", "num_frames": 140, "idle_segments": [{"start_time": 0, "end_time": 46}, {"start_time": 126, "end_time": 139}]}
+{"video_path": "S003146_P0002_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 70}, {"start_time": 147, "end_time": 160}]}
+{"video_path": "S003151_P0000_T00", "num_frames": 118, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 99, "end_time": 117}]}
+{"video_path": "S003151_P0002_T00", "num_frames": 166, "idle_segments": [{"start_time": 0, "end_time": 69}, {"start_time": 150, "end_time": 165}]}
+{"video_path": "S003154_P0000_T00", "num_frames": 113, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 100, "end_time": 112}]}
+{"video_path": "S003154_P0001_T00", "num_frames": 138, "idle_segments": [{"start_time": 0, "end_time": 43}, {"start_time": 133, "end_time": 137}]}
+{"video_path": "S003157_P0000_T00", "num_frames": 104, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 93, "end_time": 103}]}
+{"video_path": "S003159_P0001_T00", "num_frames": 165, "idle_segments": [{"start_time": 0, "end_time": 62}, {"start_time": 154, "end_time": 164}]}
+{"video_path": "S003159_P0002_T00", "num_frames": 146, "idle_segments": [{"start_time": 0, "end_time": 40}, {"start_time": 127, "end_time": 145}]}
+{"video_path": "S003162_P0000_T00", "num_frames": 95, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 88, "end_time": 94}]}
+{"video_path": "S003170_P0001_T00", "num_frames": 200, "idle_segments": [{"start_time": 0, "end_time": 68}, {"start_time": 189, "end_time": 199}]}
+{"video_path": "S003181_P0001_T00", "num_frames": 173, "idle_segments": [{"start_time": 0, "end_time": 70}]}
+{"video_path": "S003181_P0002_T00", "num_frames": 135, "idle_segments": [{"start_time": 0, "end_time": 29}, {"start_time": 121, "end_time": 134}]}
+{"video_path": "S003186_P0001_T00", "num_frames": 166, "idle_segments": [{"start_time": 0, "end_time": 62}, {"start_time": 157, "end_time": 165}]}
+{"video_path": "S003192_P0000_T00", "num_frames": 88, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 82, "end_time": 87}]}
+{"video_path": "S003206_P0000_T00", "num_frames": 139, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 101, "end_time": 138}]}
+{"video_path": "S003206_P0001_T00", "num_frames": 163, "idle_segments": [{"start_time": 0, "end_time": 75}, {"start_time": 155, "end_time": 162}]}
+{"video_path": "S003219_P0000_T00", "num_frames": 110, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 95, "end_time": 109}]}
+{"video_path": "S003219_P0002_T00", "num_frames": 174, "idle_segments": [{"start_time": 0, "end_time": 69}, {"start_time": 157, "end_time": 173}]}
+{"video_path": "S003225_P0000_T00", "num_frames": 136, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 116, "end_time": 135}]}
+{"video_path": "S003237_P0002_T00", "num_frames": 125, "idle_segments": [{"start_time": 120, "end_time": 124}]}
+{"video_path": "S003244_P0000_T00", "num_frames": 182, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 155, "end_time": 181}]}
+{"video_path": "S003246_P0002_T00", "num_frames": 217, "idle_segments": [{"start_time": 0, "end_time": 54}, {"start_time": 202, "end_time": 216}]}
+{"video_path": "S003248_P0002_T00", "num_frames": 157, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 146, "end_time": 156}]}
+{"video_path": "S003250_P0000_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 135, "end_time": 160}]}
+{"video_path": "S003256_P0002_T00", "num_frames": 129, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 120, "end_time": 128}]}
+{"video_path": "S003258_P0002_T00", "num_frames": 159, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 151, "end_time": 158}]}
+{"video_path": "S003267_P0002_T00", "num_frames": 95, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 88, "end_time": 94}]}
+{"video_path": "S003269_P0002_T00", "num_frames": 109, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 102, "end_time": 108}]}
+{"video_path": "S003276_P0002_T00", "num_frames": 111, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 100, "end_time": 110}]}
+{"video_path": "S003289_P0002_T00", "num_frames": 187, "idle_segments": [{"start_time": 177, "end_time": 186}]}
+{"video_path": "S003294_P0002_T00", "num_frames": 167, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 159, "end_time": 166}]}
+{"video_path": "S003323_P0000_T00", "num_frames": 108, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 91, "end_time": 107}]}
+{"video_path": "S003338_P0000_T00", "num_frames": 106, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 94, "end_time": 105}]}
+{"video_path": "S003340_P0002_T00", "num_frames": 122, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 117, "end_time": 121}]}
+{"video_path": "S003353_P0000_T00", "num_frames": 131, "idle_segments": [{"start_time": 121, "end_time": 130}]}
+{"video_path": "S003371_P0002_T00", "num_frames": 62, "idle_segments": [{"start_time": 52, "end_time": 61}]}
+{"video_path": "S003381_P0000_T00", "num_frames": 228, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 208, "end_time": 227}]}
+{"video_path": "S003382_P0002_T00", "num_frames": 117, "idle_segments": [{"start_time": 109, "end_time": 116}]}
+{"video_path": "S003385_P0000_T00", "num_frames": 106, "idle_segments": [{"start_time": 91, "end_time": 105}]}
+{"video_path": "S003402_P0000_T00", "num_frames": 157, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 142, "end_time": 156}]}
+{"video_path": "S003406_P0002_T00", "num_frames": 88, "idle_segments": [{"start_time": 74, "end_time": 87}]}
+{"video_path": "S003410_P0002_T00", "num_frames": 175, "idle_segments": [{"start_time": 0, "end_time": 29}, {"start_time": 169, "end_time": 174}]}
+{"video_path": "S003418_P0002_T00", "num_frames": 118, "idle_segments": [{"start_time": 117, "end_time": 117}]}
+{"video_path": "S003424_P0000_T00", "num_frames": 128, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 118, "end_time": 127}]}
+{"video_path": "S003455_P0000_T00", "num_frames": 156, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 113, "end_time": 155}]}
+{"video_path": "S003469_P0002_T00", "num_frames": 55, "idle_segments": [{"start_time": 46, "end_time": 54}]}
+{"video_path": "S003471_P0002_T00", "num_frames": 112, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 102, "end_time": 111}]}
+{"video_path": "S003491_P0002_T00", "num_frames": 169, "idle_segments": [{"start_time": 0, "end_time": 53}, {"start_time": 159, "end_time": 168}]}
+{"video_path": "S003494_P0000_T00", "num_frames": 227, "idle_segments": [{"start_time": 216, "end_time": 226}]}
+{"video_path": "S003500_P0002_T00", "num_frames": 129, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 118, "end_time": 128}]}
+{"video_path": "S003515_P0002_T00", "num_frames": 205, "idle_segments": [{"start_time": 0, "end_time": 28}]}
+{"video_path": "S003518_P0002_T00", "num_frames": 70, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 62, "end_time": 69}]}
+{"video_path": "S003524_P0000_T00", "num_frames": 105, "idle_segments": [{"start_time": 100, "end_time": 104}]}
+{"video_path": "S003537_P0000_T00", "num_frames": 197, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 191, "end_time": 196}]}
+{"video_path": "S003537_P0001_T00", "num_frames": 195, "idle_segments": [{"start_time": 186, "end_time": 194}]}
+{"video_path": "S003545_P0002_T00", "num_frames": 100, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 89, "end_time": 99}]}
+{"video_path": "S003551_P0000_T00", "num_frames": 186, "idle_segments": [{"start_time": 169, "end_time": 185}]}
+{"video_path": "S003551_P0001_T00", "num_frames": 166, "idle_segments": [{"start_time": 158, "end_time": 165}]}
+{"video_path": "S003572_P0002_T00", "num_frames": 122, "idle_segments": [{"start_time": 0, "end_time": 46}, {"start_time": 105, "end_time": 121}]}
+{"video_path": "S003579_P0002_T00", "num_frames": 92, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 74, "end_time": 91}]}
+{"video_path": "S003594_P0000_T00", "num_frames": 79, "idle_segments": [{"start_time": 77, "end_time": 78}]}
+{"video_path": "S003605_P0000_T00", "num_frames": 130, "idle_segments": [{"start_time": 122, "end_time": 129}]}
+{"video_path": "S003605_P0001_T00", "num_frames": 198, "idle_segments": [{"start_time": 0, "end_time": 64}, {"start_time": 190, "end_time": 197}]}
+{"video_path": "S003619_P0000_T00", "num_frames": 173, "idle_segments": [{"start_time": 157, "end_time": 172}]}
+{"video_path": "S003621_P0001_T00", "num_frames": 82, "idle_segments": [{"start_time": 75, "end_time": 81}]}
+{"video_path": "S003621_P0002_T00", "num_frames": 146, "idle_segments": [{"start_time": 0, "end_time": 56}, {"start_time": 132, "end_time": 145}]}
+{"video_path": "S003633_P0000_T00", "num_frames": 169, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 152, "end_time": 168}]}
+{"video_path": "S003633_P0001_T00", "num_frames": 202, "idle_segments": [{"start_time": 0, "end_time": 40}, {"start_time": 188, "end_time": 201}]}
+{"video_path": "S003637_P0001_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 150, "end_time": 160}]}
+{"video_path": "S003645_P0000_T00", "num_frames": 164, "idle_segments": [{"start_time": 155, "end_time": 163}]}
+{"video_path": "S003645_P0002_T00", "num_frames": 174, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 160, "end_time": 173}]}
+{"video_path": "S003651_P0001_T00", "num_frames": 218, "idle_segments": [{"start_time": 0, "end_time": 60}, {"start_time": 210, "end_time": 217}]}
+{"video_path": "S003669_P0000_T00", "num_frames": 92, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 79, "end_time": 91}]}
+{"video_path": "S003669_P0001_T00", "num_frames": 137, "idle_segments": [{"start_time": 0, "end_time": 59}, {"start_time": 127, "end_time": 136}]}
+{"video_path": "S003679_P0000_T00", "num_frames": 114, "idle_segments": [{"start_time": 101, "end_time": 113}]}
+{"video_path": "S003680_P0000_T00", "num_frames": 118, "idle_segments": [{"start_time": 108, "end_time": 117}]}
+{"video_path": "S003680_P0002_T00", "num_frames": 124, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 116, "end_time": 123}]}
+{"video_path": "S003692_P0000_T00", "num_frames": 107, "idle_segments": [{"start_time": 102, "end_time": 106}]}
+{"video_path": "S003692_P0001_T00", "num_frames": 134, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 121, "end_time": 133}]}
+{"video_path": "S003697_P0000_T00", "num_frames": 114, "idle_segments": [{"start_time": 102, "end_time": 113}]}
+{"video_path": "S003721_P0000_T00", "num_frames": 191, "idle_segments": [{"start_time": 171, "end_time": 190}]}
+{"video_path": "S003721_P0002_T00", "num_frames": 205, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 194, "end_time": 204}]}
+{"video_path": "S003731_P0000_T00", "num_frames": 107, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 89, "end_time": 106}]}
+{"video_path": "S003731_P0001_T00", "num_frames": 133, "idle_segments": [{"start_time": 0, "end_time": 34}, {"start_time": 122, "end_time": 132}]}
+{"video_path": "S003743_P0001_T00", "num_frames": 191, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 179, "end_time": 190}]}
+{"video_path": "S003747_P0000_T00", "num_frames": 175, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 160, "end_time": 174}]}
+{"video_path": "S003747_P0001_T00", "num_frames": 214, "idle_segments": [{"start_time": 0, "end_time": 71}, {"start_time": 202, "end_time": 213}]}
+{"video_path": "S003753_P0001_T00", "num_frames": 108, "idle_segments": [{"start_time": 0, "end_time": 31}, {"start_time": 98, "end_time": 107}]}
+{"video_path": "S003758_P0000_T00", "num_frames": 117, "idle_segments": [{"start_time": 104, "end_time": 116}]}
+{"video_path": "S003758_P0002_T00", "num_frames": 119, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 105, "end_time": 118}]}
+{"video_path": "S003759_P0000_T00", "num_frames": 149, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 137, "end_time": 148}]}
+{"video_path": "S003764_P0000_T00", "num_frames": 109, "idle_segments": [{"start_time": 94, "end_time": 108}]}
+{"video_path": "S003764_P0001_T00", "num_frames": 132, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 117, "end_time": 131}]}
+{"video_path": "S003765_P0000_T00", "num_frames": 117, "idle_segments": [{"start_time": 102, "end_time": 116}]}
+{"video_path": "S003776_P0001_T00", "num_frames": 200, "idle_segments": [{"start_time": 0, "end_time": 31}, {"start_time": 190, "end_time": 199}]}
+{"video_path": "S003778_P0000_T00", "num_frames": 172, "idle_segments": [{"start_time": 153, "end_time": 171}]}
+{"video_path": "S003778_P0001_T00", "num_frames": 236, "idle_segments": [{"start_time": 0, "end_time": 55}, {"start_time": 217, "end_time": 235}]}
+{"video_path": "S003786_P0001_T00", "num_frames": 289, "idle_segments": [{"start_time": 277, "end_time": 288}]}
+{"video_path": "S003792_P0000_T00", "num_frames": 203, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 188, "end_time": 202}]}
+{"video_path": "S003792_P0001_T00", "num_frames": 231, "idle_segments": [{"start_time": 0, "end_time": 56}, {"start_time": 223, "end_time": 230}]}
+{"video_path": "S003804_P0001_T00", "num_frames": 220, "idle_segments": [{"start_time": 0, "end_time": 38}, {"start_time": 211, "end_time": 219}]}
+{"video_path": "S003813_P0001_T00", "num_frames": 226, "idle_segments": [{"start_time": 218, "end_time": 225}]}
+{"video_path": "S003813_P0002_T00", "num_frames": 122, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 107, "end_time": 121}]}
+{"video_path": "S003821_P0001_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 154, "end_time": 160}]}
+{"video_path": "S003826_P0000_T00", "num_frames": 95, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 86, "end_time": 94}]}
+{"video_path": "S003826_P0001_T00", "num_frames": 108, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 90, "end_time": 107}]}
+{"video_path": "S003831_P0000_T00", "num_frames": 269, "idle_segments": [{"start_time": 0, "end_time": 43}, {"start_time": 253, "end_time": 268}]}
+{"video_path": "S003831_P0002_T00", "num_frames": 288, "idle_segments": [{"start_time": 0, "end_time": 58}, {"start_time": 261, "end_time": 287}]}
+{"video_path": "S003842_P0000_T00", "num_frames": 167, "idle_segments": [{"start_time": 156, "end_time": 166}]}
+{"video_path": "S003850_P0001_T00", "num_frames": 96, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 79, "end_time": 95}]}
+{"video_path": "S003860_P0000_T00", "num_frames": 146, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 128, "end_time": 145}]}
+{"video_path": "S003860_P0002_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 144, "end_time": 160}]}
+{"video_path": "S003880_P0002_T00", "num_frames": 149, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 129, "end_time": 148}]}
+{"video_path": "S003886_P0000_T00", "num_frames": 208, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 160, "end_time": 207}]}
+{"video_path": "S003886_P0002_T00", "num_frames": 201, "idle_segments": [{"start_time": 0, "end_time": 39}, {"start_time": 188, "end_time": 200}]}
+{"video_path": "S003894_P0002_T00", "num_frames": 197, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 181, "end_time": 196}]}
+{"video_path": "S003896_P0001_T00", "num_frames": 280, "idle_segments": [{"start_time": 0, "end_time": 53}, {"start_time": 266, "end_time": 279}]}
+{"video_path": "S003896_P0002_T00", "num_frames": 263, "idle_segments": [{"start_time": 0, "end_time": 38}, {"start_time": 248, "end_time": 262}]}
+{"video_path": "S003903_P0000_T00", "num_frames": 194, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 165, "end_time": 193}]}
+{"video_path": "S003903_P0002_T00", "num_frames": 192, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 177, "end_time": 191}]}
+{"video_path": "S003907_P0000_T00", "num_frames": 111, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 94, "end_time": 110}]}
+{"video_path": "S003907_P0001_T00", "num_frames": 153, "idle_segments": [{"start_time": 0, "end_time": 64}, {"start_time": 147, "end_time": 152}]}
+{"video_path": "S003911_P0002_T00", "num_frames": 152, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 128, "end_time": 151}]}
+{"video_path": "S003913_P0001_T00", "num_frames": 252, "idle_segments": [{"start_time": 0, "end_time": 90}, {"start_time": 243, "end_time": 251}]}
+{"video_path": "S003913_P0002_T00", "num_frames": 209, "idle_segments": [{"start_time": 0, "end_time": 29}, {"start_time": 188, "end_time": 208}]}
+{"video_path": "S003926_P0002_T00", "num_frames": 152, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 138, "end_time": 151}]}
+{"video_path": "S003933_P0002_T00", "num_frames": 131, "idle_segments": [{"start_time": 0, "end_time": 43}, {"start_time": 124, "end_time": 130}]}
+{"video_path": "S003936_P0001_T00", "num_frames": 163, "idle_segments": [{"start_time": 0, "end_time": 36}, {"start_time": 142, "end_time": 162}]}
+{"video_path": "S003936_P0002_T00", "num_frames": 129, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 123, "end_time": 128}]}
+{"video_path": "S003944_P0001_T00", "num_frames": 260, "idle_segments": [{"start_time": 0, "end_time": 80}, {"start_time": 247, "end_time": 259}]}
+{"video_path": "S003947_P0000_T00", "num_frames": 162, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 151, "end_time": 161}]}
+{"video_path": "S003947_P0001_T00", "num_frames": 204, "idle_segments": [{"start_time": 0, "end_time": 41}, {"start_time": 183, "end_time": 203}]}
+{"video_path": "S003950_P0000_T00", "num_frames": 102, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 89, "end_time": 101}]}
+{"video_path": "S003961_P0000_T00", "num_frames": 125, "idle_segments": [{"start_time": 97, "end_time": 124}]}
+{"video_path": "S003961_P0002_T00", "num_frames": 126, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 116, "end_time": 125}]}
+{"video_path": "S003962_P0000_T00", "num_frames": 105, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 89, "end_time": 104}]}
+{"video_path": "S003976_P0001_T00", "num_frames": 227, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 217, "end_time": 226}]}
+{"video_path": "S003976_P0002_T00", "num_frames": 292, "idle_segments": [{"start_time": 0, "end_time": 78}, {"start_time": 280, "end_time": 291}]}
+{"video_path": "S003985_P0000_T00", "num_frames": 140, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 124, "end_time": 139}]}
+{"video_path": "S003985_P0002_T00", "num_frames": 125, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 122, "end_time": 124}]}
+{"video_path": "S003987_P0001_T00", "num_frames": 166, "idle_segments": [{"start_time": 0, "end_time": 45}, {"start_time": 159, "end_time": 165}]}
+{"video_path": "S003997_P0000_T00", "num_frames": 84, "idle_segments": [{"start_time": 72, "end_time": 83}]}
+{"video_path": "S003997_P0002_T00", "num_frames": 92, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 80, "end_time": 91}]}
+{"video_path": "S003998_P0000_T00", "num_frames": 57, "idle_segments": [{"start_time": 52, "end_time": 56}]}
+{"video_path": "S004009_P0001_T00", "num_frames": 230, "idle_segments": [{"start_time": 0, "end_time": 57}]}
+{"video_path": "S004018_P0000_T00", "num_frames": 114, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 104, "end_time": 113}]}
+{"video_path": "S004029_P0001_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 49}, {"start_time": 156, "end_time": 160}]}
+{"video_path": "S004029_P0002_T00", "num_frames": 153, "idle_segments": [{"start_time": 0, "end_time": 44}, {"start_time": 143, "end_time": 152}]}
+{"video_path": "S004032_P0001_T00", "num_frames": 131, "idle_segments": [{"start_time": 0, "end_time": 46}, {"start_time": 120, "end_time": 130}]}
+{"video_path": "S004036_P0001_T00", "num_frames": 116, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 105, "end_time": 115}]}
+{"video_path": "S004036_P0002_T00", "num_frames": 97, "idle_segments": [{"start_time": 88, "end_time": 96}]}
+{"video_path": "S004037_P0000_T00", "num_frames": 91, "idle_segments": [{"start_time": 82, "end_time": 90}]}
+{"video_path": "S004037_P0002_T00", "num_frames": 85, "idle_segments": [{"start_time": 77, "end_time": 84}]}
+{"video_path": "S004040_P0002_T00", "num_frames": 216, "idle_segments": [{"start_time": 0, "end_time": 56}, {"start_time": 210, "end_time": 215}]}
+{"video_path": "S004043_P0000_T00", "num_frames": 154, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 137, "end_time": 153}]}
+{"video_path": "S004043_P0001_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 149, "end_time": 160}]}
+{"video_path": "S004044_P0001_T00", "num_frames": 135, "idle_segments": [{"start_time": 0, "end_time": 38}, {"start_time": 119, "end_time": 134}]}
+{"video_path": "S004052_P0000_T00", "num_frames": 101, "idle_segments": [{"start_time": 94, "end_time": 100}]}
+{"video_path": "S004053_P0000_T00", "num_frames": 132, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 124, "end_time": 131}]}
+{"video_path": "S004053_P0001_T00", "num_frames": 171, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 167, "end_time": 170}]}
+{"video_path": "S004060_P0000_T00", "num_frames": 82, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 72, "end_time": 81}]}
+{"video_path": "S004060_P0002_T00", "num_frames": 99, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 93, "end_time": 98}]}
+{"video_path": "S004062_P0001_T00", "num_frames": 125, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 115, "end_time": 124}]}
+{"video_path": "S004062_P0002_T00", "num_frames": 125, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 117, "end_time": 124}]}
+{"video_path": "S004079_P0002_T00", "num_frames": 132, "idle_segments": [{"start_time": 118, "end_time": 131}]}
+{"video_path": "S004089_P0000_T00", "num_frames": 49, "idle_segments": [{"start_time": 38, "end_time": 48}]}
+{"video_path": "S004091_P0000_T00", "num_frames": 98, "idle_segments": [{"start_time": 88, "end_time": 97}]}
+{"video_path": "S004091_P0002_T00", "num_frames": 126, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 114, "end_time": 125}]}
+{"video_path": "S004097_P0000_T00", "num_frames": 78, "idle_segments": [{"start_time": 62, "end_time": 77}]}
+{"video_path": "S004098_P0000_T00", "num_frames": 83, "idle_segments": [{"start_time": 76, "end_time": 82}]}
+{"video_path": "S004098_P0002_T00", "num_frames": 112, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 102, "end_time": 111}]}
+{"video_path": "S004099_P0000_T00", "num_frames": 85, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 69, "end_time": 84}]}
+{"video_path": "S004103_P0001_T00", "num_frames": 108, "idle_segments": [{"start_time": 0, "end_time": 29}, {"start_time": 102, "end_time": 107}]}
+{"video_path": "S004133_P0001_T00", "num_frames": 254, "idle_segments": [{"start_time": 0, "end_time": 76}, {"start_time": 243, "end_time": 253}]}
+{"video_path": "S004133_P0002_T00", "num_frames": 225, "idle_segments": [{"start_time": 0, "end_time": 50}, {"start_time": 210, "end_time": 224}]}
+{"video_path": "S004139_P0001_T00", "num_frames": 114, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 104, "end_time": 113}]}
+{"video_path": "S004139_P0002_T00", "num_frames": 96, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 86, "end_time": 95}]}
+{"video_path": "S004149_P0000_T00", "num_frames": 112, "idle_segments": [{"start_time": 96, "end_time": 111}]}
+{"video_path": "S004159_P0001_T00", "num_frames": 179, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 170, "end_time": 178}]}
+{"video_path": "S004161_P0000_T00", "num_frames": 98, "idle_segments": [{"start_time": 72, "end_time": 97}]}
+{"video_path": "S004161_P0002_T00", "num_frames": 105, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 85, "end_time": 104}]}
+{"video_path": "S004172_P0000_T00", "num_frames": 172, "idle_segments": [{"start_time": 166, "end_time": 171}]}
+{"video_path": "S004175_P0000_T00", "num_frames": 162, "idle_segments": [{"start_time": 149, "end_time": 161}]}
+{"video_path": "S004175_P0002_T00", "num_frames": 165, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 150, "end_time": 164}]}
+{"video_path": "S004176_P0001_T00", "num_frames": 179, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 170, "end_time": 178}]}
+{"video_path": "S004178_P0001_T00", "num_frames": 152, "idle_segments": [{"start_time": 0, "end_time": 39}, {"start_time": 144, "end_time": 151}]}
+{"video_path": "S004191_P0000_T00", "num_frames": 147, "idle_segments": [{"start_time": 127, "end_time": 146}]}
+{"video_path": "S004191_P0002_T00", "num_frames": 166, "idle_segments": [{"start_time": 0, "end_time": 29}, {"start_time": 156, "end_time": 165}]}
+{"video_path": "S004194_P0001_T00", "num_frames": 179, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 178, "end_time": 178}]}
+{"video_path": "S004197_P0000_T00", "num_frames": 163, "idle_segments": [{"start_time": 158, "end_time": 162}]}
+{"video_path": "S004204_P0003_T00", "num_frames": 190, "idle_segments": [{"start_time": 0, "end_time": 43}, {"start_time": 156, "end_time": 189}]}
+{"video_path": "S004216_P0000_T00", "num_frames": 72, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 62, "end_time": 71}]}
+{"video_path": "S004228_P0000_T00", "num_frames": 188, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 167, "end_time": 187}]}
+{"video_path": "S004228_P0007_T00", "num_frames": 207, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 185, "end_time": 206}]}
+{"video_path": "S004234_P0000_T00", "num_frames": 225, "idle_segments": [{"start_time": 201, "end_time": 224}]}
+{"video_path": "S004235_P0003_T00", "num_frames": 252, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 236, "end_time": 251}]}
+{"video_path": "S004236_P0003_T00", "num_frames": 231, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 198, "end_time": 230}]}
+{"video_path": "S004236_P0007_T00", "num_frames": 223, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 211, "end_time": 222}]}
+{"video_path": "S004237_P0003_T00", "num_frames": 178, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 160, "end_time": 177}]}
+{"video_path": "S004237_P0007_T00", "num_frames": 170, "idle_segments": [{"start_time": 0, "end_time": 45}, {"start_time": 151, "end_time": 169}]}
+{"video_path": "S004238_P0003_T00", "num_frames": 137, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 120, "end_time": 136}]}
+{"video_path": "S004242_P0003_T00", "num_frames": 154, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 120, "end_time": 153}]}
+{"video_path": "S004242_P0007_T00", "num_frames": 163, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 147, "end_time": 162}]}
+{"video_path": "S004263_P0000_T00", "num_frames": 198, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 178, "end_time": 197}]}
+{"video_path": "S004263_P0003_T00", "num_frames": 219, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 203, "end_time": 218}]}
+{"video_path": "S004264_P0003_T00", "num_frames": 347, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 328, "end_time": 346}]}
+{"video_path": "S004273_P0003_T00", "num_frames": 157, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 116, "end_time": 156}]}
+{"video_path": "S004273_P0007_T00", "num_frames": 151, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 134, "end_time": 150}]}
+{"video_path": "S004274_P0007_T00", "num_frames": 223, "idle_segments": [{"start_time": 208, "end_time": 222}]}
+{"video_path": "S004277_P0003_T00", "num_frames": 227, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 208, "end_time": 226}]}
+{"video_path": "S004284_P0003_T00", "num_frames": 230, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 210, "end_time": 229}]}
+{"video_path": "S004284_P0007_T00", "num_frames": 214, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 188, "end_time": 213}]}
+{"video_path": "S004305_P0000_T00", "num_frames": 112, "idle_segments": [{"start_time": 91, "end_time": 111}]}
+{"video_path": "S004305_P0008_T00", "num_frames": 186, "idle_segments": [{"start_time": 0, "end_time": 51}, {"start_time": 147, "end_time": 185}]}
+{"video_path": "S004311_P0000_T00", "num_frames": 202, "idle_segments": [{"start_time": 158, "end_time": 201}]}
+{"video_path": "S004314_P0003_T00", "num_frames": 128, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 101, "end_time": 127}]}
+{"video_path": "S004314_P0008_T00", "num_frames": 188, "idle_segments": [{"start_time": 0, "end_time": 75}, {"start_time": 168, "end_time": 187}]}
+{"video_path": "S004320_P0008_T00", "num_frames": 259, "idle_segments": [{"start_time": 0, "end_time": 49}, {"start_time": 236, "end_time": 258}]}
+{"video_path": "S004324_P0000_T00", "num_frames": 181, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 160, "end_time": 180}]}
+{"video_path": "S004324_P0008_T00", "num_frames": 267, "idle_segments": [{"start_time": 0, "end_time": 51}, {"start_time": 244, "end_time": 266}]}
+{"video_path": "S004338_P0008_T00", "num_frames": 149, "idle_segments": [{"start_time": 0, "end_time": 42}, {"start_time": 120, "end_time": 148}]}
+{"video_path": "S004343_P0000_T00", "num_frames": 123, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 107, "end_time": 122}]}
+{"video_path": "S004343_P0003_T00", "num_frames": 153, "idle_segments": [{"start_time": 0, "end_time": 33}, {"start_time": 132, "end_time": 152}]}
+{"video_path": "S004350_P0008_T00", "num_frames": 165, "idle_segments": [{"start_time": 0, "end_time": 47}, {"start_time": 143, "end_time": 164}]}
+{"video_path": "S004366_P0003_T00", "num_frames": 213, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 199, "end_time": 212}]}
+{"video_path": "S004372_P0000_T00", "num_frames": 152, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 146, "end_time": 151}]}
+{"video_path": "S004372_P0003_T00", "num_frames": 176, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 160, "end_time": 175}]}
+{"video_path": "S004386_P0003_T00", "num_frames": 157, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 115, "end_time": 156}]}
+{"video_path": "S004389_P0003_T00", "num_frames": 257, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 226, "end_time": 256}]}
+{"video_path": "S004389_P0008_T00", "num_frames": 343, "idle_segments": [{"start_time": 0, "end_time": 55}, {"start_time": 315, "end_time": 342}]}
+{"video_path": "S004399_P0008_T00", "num_frames": 350, "idle_segments": [{"start_time": 0, "end_time": 78}, {"start_time": 325, "end_time": 349}]}
+{"video_path": "S004413_P0000_T00", "num_frames": 97, "idle_segments": [{"start_time": 76, "end_time": 96}]}
+{"video_path": "S004414_P0000_T00", "num_frames": 117, "idle_segments": [{"start_time": 108, "end_time": 116}]}
+{"video_path": "S004414_P0008_T00", "num_frames": 237, "idle_segments": [{"start_time": 0, "end_time": 57}, {"start_time": 208, "end_time": 236}]}
+{"video_path": "S004419_P0003_T00", "num_frames": 160, "idle_segments": [{"start_time": 0, "end_time": 33}, {"start_time": 133, "end_time": 159}]}
+{"video_path": "S004419_P0008_T00", "num_frames": 207, "idle_segments": [{"start_time": 0, "end_time": 55}, {"start_time": 175, "end_time": 206}]}
+{"video_path": "S004442_P0008_T00", "num_frames": 267, "idle_segments": [{"start_time": 0, "end_time": 58}, {"start_time": 237, "end_time": 266}]}
+{"video_path": "S004449_P0003_T00", "num_frames": 149, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 124, "end_time": 148}]}
+{"video_path": "S004450_P0000_T00", "num_frames": 148, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 137, "end_time": 147}]}
+{"video_path": "S004450_P0008_T00", "num_frames": 245, "idle_segments": [{"start_time": 0, "end_time": 54}, {"start_time": 219, "end_time": 244}]}
+{"video_path": "S004452_P0003_T00", "num_frames": 176, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 129, "end_time": 175}]}
+{"video_path": "S004459_P0003_T00", "num_frames": 127, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 117, "end_time": 126}]}
+{"video_path": "S004459_P0008_T00", "num_frames": 227, "idle_segments": [{"start_time": 0, "end_time": 56}, {"start_time": 209, "end_time": 226}]}
+{"video_path": "S004465_P0003_T00", "num_frames": 216, "idle_segments": [{"start_time": 0, "end_time": 67}, {"start_time": 192, "end_time": 215}]}
+{"video_path": "S004465_P0008_T00", "num_frames": 277, "idle_segments": [{"start_time": 0, "end_time": 54}, {"start_time": 241, "end_time": 276}]}
+{"video_path": "S004478_P0008_T00", "num_frames": 216, "idle_segments": [{"start_time": 0, "end_time": 47}, {"start_time": 195, "end_time": 215}]}
+{"video_path": "S004490_P0000_T00", "num_frames": 141, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 119, "end_time": 140}]}
+{"video_path": "S004490_P0003_T00", "num_frames": 199, "idle_segments": [{"start_time": 0, "end_time": 33}, {"start_time": 182, "end_time": 198}]}
+{"video_path": "S004491_P0000_T00", "num_frames": 130, "idle_segments": [{"start_time": 106, "end_time": 129}]}
+{"video_path": "S004504_P0000_T00", "num_frames": 105, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 84, "end_time": 104}]}
+{"video_path": "S004504_P0008_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 41}, {"start_time": 175, "end_time": 194}]}
+{"video_path": "S004513_P0000_T00", "num_frames": 99, "idle_segments": [{"start_time": 89, "end_time": 98}]}
+{"video_path": "S004514_P0003_T00", "num_frames": 194, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 151, "end_time": 193}]}
+{"video_path": "S004514_P0008_T00", "num_frames": 275, "idle_segments": [{"start_time": 0, "end_time": 46}, {"start_time": 237, "end_time": 274}]}
+{"video_path": "S004517_P0003_T00", "num_frames": 169, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 152, "end_time": 168}]}
+{"video_path": "S004522_P0000_T00", "num_frames": 167, "idle_segments": [{"start_time": 150, "end_time": 166}]}
+{"video_path": "S004522_P0008_T00", "num_frames": 333, "idle_segments": [{"start_time": 0, "end_time": 49}, {"start_time": 329, "end_time": 332}]}
+{"video_path": "S004525_P0000_T00", "num_frames": 152, "idle_segments": [{"start_time": 133, "end_time": 151}]}
+{"video_path": "S004549_P0000_T00", "num_frames": 153, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 136, "end_time": 152}]}
+{"video_path": "S004549_P0008_T00", "num_frames": 234, "idle_segments": [{"start_time": 0, "end_time": 60}, {"start_time": 226, "end_time": 233}]}
+{"video_path": "S004560_P0008_T00", "num_frames": 233, "idle_segments": [{"start_time": 0, "end_time": 61}, {"start_time": 202, "end_time": 232}]}
+{"video_path": "S004571_P0000_T00", "num_frames": 127, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 116, "end_time": 126}]}
+{"video_path": "S004571_P0008_T00", "num_frames": 221, "idle_segments": [{"start_time": 187, "end_time": 220}]}
+{"video_path": "S004573_P0000_T00", "num_frames": 143, "idle_segments": [{"start_time": 125, "end_time": 142}]}
+{"video_path": "S004577_P0003_T00", "num_frames": 249, "idle_segments": [{"start_time": 0, "end_time": 35}, {"start_time": 183, "end_time": 248}]}
+{"video_path": "S004577_P0008_T00", "num_frames": 283, "idle_segments": [{"start_time": 0, "end_time": 67}, {"start_time": 258, "end_time": 282}]}
+{"video_path": "S004587_P0000_T00", "num_frames": 127, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 119, "end_time": 126}]}
+{"video_path": "S004587_P0003_T00", "num_frames": 146, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 123, "end_time": 145}]}
+{"video_path": "S004603_P0003_T00", "num_frames": 189, "idle_segments": [{"start_time": 0, "end_time": 30}, {"start_time": 163, "end_time": 188}]}
+{"video_path": "S004603_P0008_T00", "num_frames": 290, "idle_segments": [{"start_time": 0, "end_time": 53}, {"start_time": 259, "end_time": 289}]}
+{"video_path": "S004605_P0008_T00", "num_frames": 177, "idle_segments": [{"start_time": 0, "end_time": 55}, {"start_time": 159, "end_time": 176}]}
+{"video_path": "S004633_P0003_T00", "num_frames": 113, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 97, "end_time": 112}]}
+{"video_path": "S004636_P0003_T00", "num_frames": 140, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 126, "end_time": 139}]}
+{"video_path": "S004636_P0008_T00", "num_frames": 207, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 169, "end_time": 206}]}
+{"video_path": "S004640_P0003_T00", "num_frames": 127, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 101, "end_time": 126}]}
+{"video_path": "S004640_P0008_T00", "num_frames": 163, "idle_segments": [{"start_time": 0, "end_time": 47}, {"start_time": 138, "end_time": 162}]}
+{"video_path": "S004643_P0000_T00", "num_frames": 135, "idle_segments": [{"start_time": 124, "end_time": 134}]}
+{"video_path": "S004652_P0000_T00", "num_frames": 212, "idle_segments": [{"start_time": 204, "end_time": 211}]}
+{"video_path": "S004652_P0008_T00", "num_frames": 311, "idle_segments": [{"start_time": 0, "end_time": 57}, {"start_time": 292, "end_time": 310}]}
+{"video_path": "S004664_P0000_T00", "num_frames": 106, "idle_segments": [{"start_time": 91, "end_time": 105}]}
+{"video_path": "S004671_P0003_T00", "num_frames": 190, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 171, "end_time": 189}]}
+{"video_path": "S004677_P0000_T00", "num_frames": 75, "idle_segments": [{"start_time": 64, "end_time": 74}]}
+{"video_path": "S004677_P0008_T00", "num_frames": 190, "idle_segments": [{"start_time": 0, "end_time": 55}, {"start_time": 153, "end_time": 189}]}
+{"video_path": "S004681_P0003_T00", "num_frames": 217, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 197, "end_time": 216}]}
+{"video_path": "S004681_P0008_T00", "num_frames": 335, "idle_segments": [{"start_time": 0, "end_time": 65}, {"start_time": 303, "end_time": 334}]}
+{"video_path": "S004686_P0008_T00", "num_frames": 197, "idle_segments": [{"start_time": 0, "end_time": 51}, {"start_time": 172, "end_time": 196}]}
+{"video_path": "S004692_P0003_T00", "num_frames": 151, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 124, "end_time": 150}]}
+{"video_path": "S004692_P0008_T00", "num_frames": 183, "idle_segments": [{"start_time": 0, "end_time": 60}, {"start_time": 149, "end_time": 182}]}
+{"video_path": "S004699_P0000_T00", "num_frames": 115, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 111, "end_time": 114}]}
+{"video_path": "S004699_P0008_T00", "num_frames": 206, "idle_segments": [{"start_time": 0, "end_time": 55}, {"start_time": 184, "end_time": 205}]}
+{"video_path": "S004701_P0003_T00", "num_frames": 166, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 147, "end_time": 165}]}
+{"video_path": "S004711_P0000_T00", "num_frames": 129, "idle_segments": [{"start_time": 94, "end_time": 128}]}
+{"video_path": "S004711_P0007_T00", "num_frames": 128, "idle_segments": [{"start_time": 0, "end_time": 39}, {"start_time": 120, "end_time": 127}]}
+{"video_path": "S004729_P0007_T00", "num_frames": 149, "idle_segments": [{"start_time": 0, "end_time": 56}, {"start_time": 138, "end_time": 148}]}
+{"video_path": "S004743_P0000_T00", "num_frames": 157, "idle_segments": [{"start_time": 143, "end_time": 156}]}
+{"video_path": "S004743_P0007_T00", "num_frames": 214, "idle_segments": [{"start_time": 0, "end_time": 44}, {"start_time": 203, "end_time": 213}]}
+{"video_path": "S004752_P0003_T00", "num_frames": 143, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 126, "end_time": 142}]}
+{"video_path": "S004754_P0000_T00", "num_frames": 129, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 118, "end_time": 128}]}
+{"video_path": "S004754_P0007_T00", "num_frames": 160, "idle_segments": [{"start_time": 0, "end_time": 51}, {"start_time": 139, "end_time": 159}]}
+{"video_path": "S004755_P0007_T00", "num_frames": 192, "idle_segments": [{"start_time": 0, "end_time": 55}, {"start_time": 171, "end_time": 191}]}
+{"video_path": "S004769_P0007_T00", "num_frames": 215, "idle_segments": [{"start_time": 0, "end_time": 55}, {"start_time": 159, "end_time": 214}]}
+{"video_path": "S004776_P0000_T00", "num_frames": 171, "idle_segments": [{"start_time": 158, "end_time": 170}]}
+{"video_path": "S004798_P0003_T00", "num_frames": 231, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 202, "end_time": 230}]}
+{"video_path": "S004798_P0007_T00", "num_frames": 307, "idle_segments": [{"start_time": 0, "end_time": 116}, {"start_time": 291, "end_time": 306}]}
+{"video_path": "S004804_P0007_T00", "num_frames": 191, "idle_segments": [{"start_time": 0, "end_time": 56}, {"start_time": 180, "end_time": 190}]}
+{"video_path": "S004808_P0000_T00", "num_frames": 148, "idle_segments": [{"start_time": 137, "end_time": 147}]}
+{"video_path": "S004808_P0007_T00", "num_frames": 190, "idle_segments": [{"start_time": 0, "end_time": 57}, {"start_time": 173, "end_time": 189}]}
+{"video_path": "S004839_P0000_T00", "num_frames": 110, "idle_segments": [{"start_time": 94, "end_time": 109}]}
+{"video_path": "S004839_P0003_T00", "num_frames": 138, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 126, "end_time": 137}]}
+{"video_path": "S004849_P0000_T00", "num_frames": 91, "idle_segments": [{"start_time": 69, "end_time": 90}]}
+{"video_path": "S004858_P0000_T00", "num_frames": 103, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 85, "end_time": 102}]}
+{"video_path": "S004878_P0007_T00", "num_frames": 225, "idle_segments": [{"start_time": 0, "end_time": 41}, {"start_time": 199, "end_time": 224}]}
+{"video_path": "S004885_P0000_T00", "num_frames": 150, "idle_segments": [{"start_time": 143, "end_time": 149}]}
+{"video_path": "S004885_P0003_T00", "num_frames": 202, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 173, "end_time": 201}]}
+{"video_path": "S004890_P0000_T00", "num_frames": 138, "idle_segments": [{"start_time": 127, "end_time": 137}]}
+{"video_path": "S004907_P0003_T00", "num_frames": 179, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 156, "end_time": 178}]}
+{"video_path": "S004909_P0003_T00", "num_frames": 212, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 192, "end_time": 211}]}
+{"video_path": "S004909_P0007_T00", "num_frames": 238, "idle_segments": [{"start_time": 0, "end_time": 56}, {"start_time": 215, "end_time": 237}]}
+{"video_path": "S004924_P0003_T00", "num_frames": 144, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 119, "end_time": 143}]}
+{"video_path": "S004924_P0007_T00", "num_frames": 171, "idle_segments": [{"start_time": 0, "end_time": 42}, {"start_time": 145, "end_time": 170}]}
+{"video_path": "S004936_P0007_T00", "num_frames": 171, "idle_segments": [{"start_time": 0, "end_time": 46}, {"start_time": 141, "end_time": 170}]}
+{"video_path": "S004946_P0000_T00", "num_frames": 148, "idle_segments": [{"start_time": 135, "end_time": 147}]}
+{"video_path": "S004946_P0003_T00", "num_frames": 166, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 146, "end_time": 165}]}
+{"video_path": "S004952_P0003_T00", "num_frames": 154, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 137, "end_time": 153}]}
+{"video_path": "S004959_P0007_T00", "num_frames": 223, "idle_segments": [{"start_time": 0, "end_time": 45}, {"start_time": 194, "end_time": 222}]}
+{"video_path": "S004962_P0000_T00", "num_frames": 139, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 122, "end_time": 138}]}
+{"video_path": "S004962_P0007_T00", "num_frames": 187, "idle_segments": [{"start_time": 0, "end_time": 48}, {"start_time": 156, "end_time": 186}]}
+{"video_path": "S004965_P0007_T00", "num_frames": 205, "idle_segments": [{"start_time": 0, "end_time": 51}, {"start_time": 192, "end_time": 204}]}
+{"video_path": "S004977_P0000_T00", "num_frames": 131, "idle_segments": []}
+{"video_path": "S004983_P0003_T00", "num_frames": 183, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 155, "end_time": 182}]}
+{"video_path": "S004988_P0000_T00", "num_frames": 151, "idle_segments": [{"start_time": 0, "end_time": 27}]}
+{"video_path": "S004988_P0007_T00", "num_frames": 220, "idle_segments": [{"start_time": 0, "end_time": 53}, {"start_time": 201, "end_time": 219}]}
+{"video_path": "S004990_P0003_T00", "num_frames": 182, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 157, "end_time": 181}]}
+{"video_path": "S004990_P0007_T00", "num_frames": 197, "idle_segments": [{"start_time": 0, "end_time": 38}, {"start_time": 176, "end_time": 196}]}
+{"video_path": "S004992_P0000_T00", "num_frames": 134, "idle_segments": [{"start_time": 0, "end_time": 0}, {"start_time": 98, "end_time": 133}]}
+{"video_path": "S004997_P0000_T00", "num_frames": 136, "idle_segments": [{"start_time": 0, "end_time": 4}, {"start_time": 113, "end_time": 135}]}
+{"video_path": "S004997_P0007_T00", "num_frames": 166, "idle_segments": [{"start_time": 0, "end_time": 36}, {"start_time": 151, "end_time": 165}]}
+{"video_path": "S005002_P0000_T00", "num_frames": 97, "idle_segments": [{"start_time": 65, "end_time": 96}]}
+{"video_path": "S005004_P0000_T00", "num_frames": 100, "idle_segments": [{"start_time": 75, "end_time": 99}]}
+{"video_path": "S005008_P0006_T00", "num_frames": 115, "idle_segments": [{"start_time": 105, "end_time": 114}]}
+{"video_path": "S005011_P0000_T00", "num_frames": 121, "idle_segments": [{"start_time": 97, "end_time": 120}]}
+{"video_path": "S005011_P0003_T00", "num_frames": 154, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 135, "end_time": 153}]}
+{"video_path": "S005015_P0006_T00", "num_frames": 159, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 141, "end_time": 158}]}
+{"video_path": "S005017_P0003_T00", "num_frames": 149, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 119, "end_time": 148}]}
+{"video_path": "S005017_P0006_T00", "num_frames": 138, "idle_segments": [{"start_time": 0, "end_time": 23}]}
+{"video_path": "S005022_P0000_T00", "num_frames": 145, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 129, "end_time": 144}]}
+{"video_path": "S005022_P0006_T00", "num_frames": 247, "idle_segments": [{"start_time": 228, "end_time": 246}]}
+{"video_path": "S005024_P0003_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 174, "end_time": 194}]}
+{"video_path": "S005025_P0003_T00", "num_frames": 171, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 150, "end_time": 170}]}
+{"video_path": "S005025_P0006_T00", "num_frames": 180, "idle_segments": [{"start_time": 0, "end_time": 7}]}
+{"video_path": "S005034_P0000_T00", "num_frames": 100, "idle_segments": [{"start_time": 92, "end_time": 99}]}
+{"video_path": "S005040_P0003_T00", "num_frames": 131, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 123, "end_time": 130}]}
+{"video_path": "S005040_P0006_T00", "num_frames": 157, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 153, "end_time": 156}]}
+{"video_path": "S005053_P0006_T00", "num_frames": 152, "idle_segments": []}
+{"video_path": "S005064_P0006_T00", "num_frames": 172, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 159, "end_time": 171}]}
+{"video_path": "S005065_P0003_T00", "num_frames": 121, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 92, "end_time": 120}]}
+{"video_path": "S005069_P0003_T00", "num_frames": 123, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 99, "end_time": 122}]}
+{"video_path": "S005069_P0006_T00", "num_frames": 102, "idle_segments": [{"start_time": 88, "end_time": 101}]}
+{"video_path": "S005075_P0006_T00", "num_frames": 85, "idle_segments": [{"start_time": 72, "end_time": 84}]}
+{"video_path": "S005080_P0000_T00", "num_frames": 116, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 112, "end_time": 115}]}
+{"video_path": "S005080_P0003_T00", "num_frames": 144, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 131, "end_time": 143}]}
+{"video_path": "S005096_P0006_T00", "num_frames": 92, "idle_segments": [{"start_time": 80, "end_time": 91}]}
+{"video_path": "S005110_P0000_T00", "num_frames": 86, "idle_segments": [{"start_time": 78, "end_time": 85}]}
+{"video_path": "S005110_P0003_T00", "num_frames": 129, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 110, "end_time": 128}]}
+{"video_path": "S005112_P0000_T00", "num_frames": 183, "idle_segments": []}
+{"video_path": "S005112_P0006_T00", "num_frames": 203, "idle_segments": []}
+{"video_path": "S005113_P0003_T00", "num_frames": 141, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 122, "end_time": 140}]}
+{"video_path": "S005113_P0009_T00", "num_frames": 120, "idle_segments": [{"start_time": 112, "end_time": 119}]}
+{"video_path": "S005114_P0003_T00", "num_frames": 194, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 171, "end_time": 193}]}
+{"video_path": "S005114_P0006_T00", "num_frames": 182, "idle_segments": []}
+{"video_path": "S005118_P0000_T00", "num_frames": 78, "idle_segments": [{"start_time": 64, "end_time": 77}]}
+{"video_path": "S005118_P0003_T00", "num_frames": 109, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 94, "end_time": 108}]}
+{"video_path": "S005120_P0003_T00", "num_frames": 160, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 146, "end_time": 159}]}
+{"video_path": "S005120_P0006_T00", "num_frames": 208, "idle_segments": [{"start_time": 196, "end_time": 207}]}
+{"video_path": "S005131_P0003_T00", "num_frames": 152, "idle_segments": [{"start_time": 0, "end_time": 21}]}
+{"video_path": "S005131_P0009_T00", "num_frames": 160, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 132, "end_time": 159}]}
+{"video_path": "S005145_P0003_T00", "num_frames": 174, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 171, "end_time": 173}]}
+{"video_path": "S005145_P0006_T00", "num_frames": 181, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 175, "end_time": 180}]}
+{"video_path": "S005162_P0000_T00", "num_frames": 177, "idle_segments": [{"start_time": 169, "end_time": 176}]}
+{"video_path": "S005162_P0006_T00", "num_frames": 243, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 233, "end_time": 242}]}
+{"video_path": "S005184_P0003_T00", "num_frames": 132, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 111, "end_time": 131}]}
+{"video_path": "S005184_P0006_T00", "num_frames": 116, "idle_segments": [{"start_time": 112, "end_time": 115}]}
+{"video_path": "S005186_P0000_T00", "num_frames": 126, "idle_segments": [{"start_time": 110, "end_time": 125}]}
+{"video_path": "S005186_P0003_T00", "num_frames": 197, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 172, "end_time": 196}]}
+{"video_path": "S005197_P0006_T00", "num_frames": 176, "idle_segments": [{"start_time": 0, "end_time": 30}, {"start_time": 166, "end_time": 175}]}
+{"video_path": "S005197_P0009_T00", "num_frames": 178, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 155, "end_time": 177}]}
+{"video_path": "S005211_P0003_T00", "num_frames": 216, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 191, "end_time": 215}]}
+{"video_path": "S005211_P0009_T00", "num_frames": 319, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 287, "end_time": 318}]}
+{"video_path": "S005213_P0000_T00", "num_frames": 96, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 82, "end_time": 95}]}
+{"video_path": "S005213_P0003_T00", "num_frames": 136, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 114, "end_time": 135}]}
+{"video_path": "S005226_P0003_T00", "num_frames": 202, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 182, "end_time": 201}]}
+{"video_path": "S005226_P0009_T00", "num_frames": 347, "idle_segments": [{"start_time": 0, "end_time": 7}]}
+{"video_path": "S005231_P0000_T00", "num_frames": 184, "idle_segments": [{"start_time": 177, "end_time": 183}]}
+{"video_path": "S005231_P0006_T00", "num_frames": 323, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 306, "end_time": 322}]}
+{"video_path": "S005233_P0000_T00", "num_frames": 145, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 129, "end_time": 144}]}
+{"video_path": "S005233_P0009_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 167, "end_time": 194}]}
+{"video_path": "S005248_P0003_T00", "num_frames": 155, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 143, "end_time": 154}]}
+{"video_path": "S005248_P0009_T00", "num_frames": 148, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 140, "end_time": 147}]}
+{"video_path": "S005274_P0000_T00", "num_frames": 124, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 115, "end_time": 123}]}
+{"video_path": "S005274_P0003_T00", "num_frames": 223, "idle_segments": [{"start_time": 0, "end_time": 96}, {"start_time": 208, "end_time": 222}]}
+{"video_path": "S005276_P0000_T00", "num_frames": 105, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 91, "end_time": 104}]}
+{"video_path": "S005276_P0009_T00", "num_frames": 141, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 115, "end_time": 140}]}
+{"video_path": "S005281_P0003_T00", "num_frames": 174, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 161, "end_time": 173}]}
+{"video_path": "S005281_P0006_T00", "num_frames": 226, "idle_segments": [{"start_time": 0, "end_time": 33}, {"start_time": 217, "end_time": 225}]}
+{"video_path": "S005288_P0006_T00", "num_frames": 176, "idle_segments": [{"start_time": 0, "end_time": 32}, {"start_time": 148, "end_time": 175}]}
+{"video_path": "S005288_P0009_T00", "num_frames": 187, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 159, "end_time": 186}]}
+{"video_path": "S005294_P0003_T00", "num_frames": 168, "idle_segments": [{"start_time": 0, "end_time": 46}, {"start_time": 150, "end_time": 167}]}
+{"video_path": "S005294_P0009_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 177, "end_time": 194}]}
+{"video_path": "S005295_P0000_T00", "num_frames": 122, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 110, "end_time": 121}]}
+{"video_path": "S005295_P0006_T00", "num_frames": 158, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 138, "end_time": 157}]}
+{"video_path": "S005306_P0009_T00", "num_frames": 155, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 139, "end_time": 154}]}
+{"video_path": "S005319_P0009_T00", "num_frames": 144, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 121, "end_time": 143}]}
+{"video_path": "S005323_P0000_T00", "num_frames": 139, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 125, "end_time": 138}]}
+{"video_path": "S005323_P0006_T00", "num_frames": 178, "idle_segments": [{"start_time": 0, "end_time": 46}, {"start_time": 158, "end_time": 177}]}
+{"video_path": "S005344_P0000_T00", "num_frames": 74, "idle_segments": [{"start_time": 67, "end_time": 73}]}
+{"video_path": "S005346_P0006_T00", "num_frames": 113, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 93, "end_time": 112}]}
+{"video_path": "S005346_P0009_T00", "num_frames": 78, "idle_segments": [{"start_time": 58, "end_time": 77}]}
+{"video_path": "S005347_P0000_T00", "num_frames": 41, "idle_segments": [{"start_time": 34, "end_time": 40}]}
+{"video_path": "S005347_P0009_T00", "num_frames": 72, "idle_segments": [{"start_time": 49, "end_time": 71}]}
+{"video_path": "S005354_P0006_T00", "num_frames": 172, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 152, "end_time": 171}]}
+{"video_path": "S005357_P0006_T00", "num_frames": 176, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 152, "end_time": 175}]}
+{"video_path": "S005357_P0009_T00", "num_frames": 211, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 149, "end_time": 210}]}
+{"video_path": "S005360_P0009_T00", "num_frames": 208, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 190, "end_time": 207}]}
+{"video_path": "S005365_P0000_T00", "num_frames": 184, "idle_segments": [{"start_time": 169, "end_time": 183}]}
+{"video_path": "S005365_P0009_T00", "num_frames": 253, "idle_segments": [{"start_time": 0, "end_time": 55}, {"start_time": 227, "end_time": 252}]}
+{"video_path": "S005368_P0000_T00", "num_frames": 175, "idle_segments": [{"start_time": 166, "end_time": 174}]}
+{"video_path": "S005380_P0006_T00", "num_frames": 118, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 107, "end_time": 117}]}
+{"video_path": "S005380_P0009_T00", "num_frames": 72, "idle_segments": [{"start_time": 70, "end_time": 71}]}
+{"video_path": "S005394_P0000_T00", "num_frames": 124, "idle_segments": [{"start_time": 0, "end_time": 11}]}
+{"video_path": "S005405_P0000_T00", "num_frames": 114, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 98, "end_time": 113}]}
+{"video_path": "S005405_P0006_T00", "num_frames": 139, "idle_segments": [{"start_time": 0, "end_time": 33}, {"start_time": 131, "end_time": 138}]}
+{"video_path": "S005406_P0000_T00", "num_frames": 109, "idle_segments": [{"start_time": 104, "end_time": 108}]}
+{"video_path": "S005418_P0000_T00", "num_frames": 116, "idle_segments": [{"start_time": 107, "end_time": 115}]}
+{"video_path": "S005418_P0009_T00", "num_frames": 186, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 160, "end_time": 185}]}
+{"video_path": "S005419_P0006_T00", "num_frames": 108, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 93, "end_time": 107}]}
+{"video_path": "S005470_P0000_T00", "num_frames": 164, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 152, "end_time": 163}]}
+{"video_path": "S005470_P0009_T00", "num_frames": 185, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 161, "end_time": 184}]}
+{"video_path": "S005496_P0006_T00", "num_frames": 124, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 116, "end_time": 123}]}
+{"video_path": "S005496_P0009_T00", "num_frames": 171, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 156, "end_time": 170}]}
+{"video_path": "S005502_P0006_T00", "num_frames": 126, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 110, "end_time": 125}]}
+{"video_path": "S005502_P0009_T00", "num_frames": 167, "idle_segments": [{"start_time": 0, "end_time": 62}, {"start_time": 142, "end_time": 166}]}
+{"video_path": "S005504_P0009_T00", "num_frames": 134, "idle_segments": [{"start_time": 0, "end_time": 50}, {"start_time": 113, "end_time": 133}]}
+{"video_path": "S005530_P0000_T00", "num_frames": 74, "idle_segments": [{"start_time": 66, "end_time": 73}]}
+{"video_path": "S005530_P0006_T00", "num_frames": 96, "idle_segments": [{"start_time": 77, "end_time": 95}]}
+{"video_path": "S005532_P0000_T00", "num_frames": 54, "idle_segments": [{"start_time": 36, "end_time": 53}]}
+{"video_path": "S005532_P0009_T00", "num_frames": 94, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 70, "end_time": 93}]}
+{"video_path": "S005540_P0006_T00", "num_frames": 178, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 159, "end_time": 177}]}
+{"video_path": "S005545_P0006_T00", "num_frames": 239, "idle_segments": [{"start_time": 0, "end_time": 34}, {"start_time": 227, "end_time": 238}]}
+{"video_path": "S005545_P0009_T00", "num_frames": 253, "idle_segments": [{"start_time": 0, "end_time": 44}, {"start_time": 229, "end_time": 252}]}
+{"video_path": "S005546_P0000_T00", "num_frames": 230, "idle_segments": [{"start_time": 203, "end_time": 229}]}
+{"video_path": "S005552_P0000_T00", "num_frames": 167, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 147, "end_time": 166}]}
+{"video_path": "S005552_P0009_T00", "num_frames": 186, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 169, "end_time": 185}]}
+{"video_path": "S005572_P0009_T00", "num_frames": 213, "idle_segments": [{"start_time": 0, "end_time": 31}, {"start_time": 202, "end_time": 212}]}
+{"video_path": "S005583_P0006_T00", "num_frames": 223, "idle_segments": [{"start_time": 0, "end_time": 31}, {"start_time": 204, "end_time": 222}]}
+{"video_path": "S005583_P0009_T00", "num_frames": 246, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 212, "end_time": 245}]}
+{"video_path": "S005594_P0000_T00", "num_frames": 164, "idle_segments": [{"start_time": 0, "end_time": 2}]}
+{"video_path": "S005607_P0006_T00", "num_frames": 136, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 125, "end_time": 135}]}
+{"video_path": "S005607_P0009_T00", "num_frames": 177, "idle_segments": [{"start_time": 0, "end_time": 38}, {"start_time": 163, "end_time": 176}]}
+{"video_path": "S005613_P0000_T00", "num_frames": 70, "idle_segments": [{"start_time": 57, "end_time": 69}]}
+{"video_path": "S005613_P0006_T00", "num_frames": 97, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 81, "end_time": 96}]}
+{"video_path": "S005630_P0009_T00", "num_frames": 192, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 175, "end_time": 191}]}
+{"video_path": "S005648_P0000_T00", "num_frames": 149, "idle_segments": [{"start_time": 128, "end_time": 148}]}
+{"video_path": "S005648_P0006_T00", "num_frames": 189, "idle_segments": [{"start_time": 0, "end_time": 29}, {"start_time": 154, "end_time": 188}]}
+{"video_path": "S005664_P0009_T00", "num_frames": 144, "idle_segments": [{"start_time": 0, "end_time": 8}, {"start_time": 129, "end_time": 143}]}
+{"video_path": "S005670_P0000_T00", "num_frames": 83, "idle_segments": [{"start_time": 68, "end_time": 82}]}
+{"video_path": "S005670_P0009_T00", "num_frames": 128, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 110, "end_time": 127}]}
+{"video_path": "S005680_P0009_T00", "num_frames": 211, "idle_segments": [{"start_time": 0, "end_time": 36}, {"start_time": 201, "end_time": 210}]}
+{"video_path": "S005694_P0009_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 43}, {"start_time": 172, "end_time": 194}]}
+{"video_path": "S005731_P0006_T00", "num_frames": 255, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 232, "end_time": 254}]}
+{"video_path": "S005731_P0009_T00", "num_frames": 309, "idle_segments": [{"start_time": 0, "end_time": 32}, {"start_time": 296, "end_time": 308}]}
+{"video_path": "S005762_P0006_T00", "num_frames": 209, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 194, "end_time": 208}]}
+{"video_path": "S005764_P0006_T00", "num_frames": 138, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 120, "end_time": 137}]}
+{"video_path": "S005797_P0000_T00", "num_frames": 205, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 195, "end_time": 204}]}
+{"video_path": "S005797_P0009_T00", "num_frames": 254, "idle_segments": [{"start_time": 244, "end_time": 253}]}
+{"video_path": "S005808_P0000_T00", "num_frames": 152, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 136, "end_time": 151}]}
+{"video_path": "S005842_P0000_T00", "num_frames": 165, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 148, "end_time": 164}]}
+{"video_path": "S005842_P0009_T00", "num_frames": 189, "idle_segments": [{"start_time": 0, "end_time": 67}, {"start_time": 164, "end_time": 188}]}
+{"video_path": "S005861_P0009_T00", "num_frames": 246, "idle_segments": [{"start_time": 0, "end_time": 34}, {"start_time": 222, "end_time": 245}]}
+{"video_path": "S005874_P0006_T00", "num_frames": 177, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 151, "end_time": 176}]}
+{"video_path": "S005880_P0000_T00", "num_frames": 160, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 147, "end_time": 159}]}
+{"video_path": "S005880_P0006_T00", "num_frames": 201, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 175, "end_time": 200}]}
+{"video_path": "S005881_P0000_T00", "num_frames": 122, "idle_segments": [{"start_time": 100, "end_time": 121}]}
+{"video_path": "S005892_P0000_T00", "num_frames": 93, "idle_segments": [{"start_time": 75, "end_time": 92}]}
+{"video_path": "S005892_P0006_T00", "num_frames": 124, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 103, "end_time": 123}]}
+{"video_path": "S005893_P0000_T00", "num_frames": 196, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 181, "end_time": 195}]}
+{"video_path": "S005893_P0006_T00", "num_frames": 233, "idle_segments": [{"start_time": 0, "end_time": 34}, {"start_time": 203, "end_time": 232}]}
+{"video_path": "S005894_P0006_T00", "num_frames": 234, "idle_segments": [{"start_time": 0, "end_time": 40}, {"start_time": 214, "end_time": 233}]}
+{"video_path": "S005913_P0000_T00", "num_frames": 180, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 160, "end_time": 179}]}
+{"video_path": "S005913_P0006_T00", "num_frames": 216, "idle_segments": [{"start_time": 0, "end_time": 43}, {"start_time": 202, "end_time": 215}]}
+{"video_path": "S005931_P0000_T00", "num_frames": 181, "idle_segments": [{"start_time": 155, "end_time": 180}]}
+{"video_path": "S005931_P0006_T00", "num_frames": 205, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 193, "end_time": 204}]}
+{"video_path": "S005933_P0000_T00", "num_frames": 154, "idle_segments": [{"start_time": 135, "end_time": 153}]}
+{"video_path": "S005933_P0009_T00", "num_frames": 225, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 193, "end_time": 224}]}
+{"video_path": "S005936_P0000_T00", "num_frames": 213, "idle_segments": [{"start_time": 0, "end_time": 36}, {"start_time": 184, "end_time": 212}]}
+{"video_path": "S005941_P0006_T00", "num_frames": 183, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 167, "end_time": 182}]}
+{"video_path": "S005941_P0009_T00", "num_frames": 173, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 154, "end_time": 172}]}
+{"video_path": "S005949_P0000_T00", "num_frames": 87, "idle_segments": []}
+{"video_path": "S005949_P0006_T00", "num_frames": 127, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 110, "end_time": 126}]}
+{"video_path": "S005956_P0000_T00", "num_frames": 108, "idle_segments": []}
+{"video_path": "S005956_P0009_T00", "num_frames": 160, "idle_segments": [{"start_time": 0, "end_time": 15}]}
+{"video_path": "S005957_P0000_T00", "num_frames": 125, "idle_segments": [{"start_time": 122, "end_time": 124}]}
+{"video_path": "S005971_P0000_T00", "num_frames": 100, "idle_segments": []}
+{"video_path": "S005971_P0006_T00", "num_frames": 119, "idle_segments": [{"start_time": 0, "end_time": 32}]}
+{"video_path": "S005972_P0006_T00", "num_frames": 209, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 195, "end_time": 208}]}
+{"video_path": "S005972_P0009_T00", "num_frames": 208, "idle_segments": [{"start_time": 0, "end_time": 17}]}
+{"video_path": "S005981_P0009_T00", "num_frames": 248, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 228, "end_time": 247}]}
+{"video_path": "S005996_P0000_T00", "num_frames": 166, "idle_segments": [{"start_time": 155, "end_time": 165}]}
+{"video_path": "S005996_P0006_T00", "num_frames": 209, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 188, "end_time": 208}]}
+{"video_path": "S006013_P0009_T00", "num_frames": 212, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 198, "end_time": 211}]}
+{"video_path": "S006015_P0000_T00", "num_frames": 135, "idle_segments": [{"start_time": 130, "end_time": 134}]}
+{"video_path": "S006017_P0000_T00", "num_frames": 136, "idle_segments": [{"start_time": 124, "end_time": 135}]}
+{"video_path": "S006017_P0009_T00", "num_frames": 202, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 185, "end_time": 201}]}
+{"video_path": "S006035_P0000_T00", "num_frames": 121, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 107, "end_time": 120}]}
+{"video_path": "S006035_P0009_T00", "num_frames": 160, "idle_segments": [{"start_time": 0, "end_time": 37}]}
+{"video_path": "S006043_P0000_T00", "num_frames": 125, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 77, "end_time": 124}]}
+{"video_path": "S006051_P0006_T00", "num_frames": 227, "idle_segments": [{"start_time": 0, "end_time": 38}, {"start_time": 198, "end_time": 226}]}
+{"video_path": "S006051_P0009_T00", "num_frames": 250, "idle_segments": [{"start_time": 0, "end_time": 39}, {"start_time": 211, "end_time": 249}]}
+{"video_path": "S006071_P0009_T00", "num_frames": 175, "idle_segments": [{"start_time": 0, "end_time": 36}, {"start_time": 158, "end_time": 174}]}
+{"video_path": "S006072_P0000_T00", "num_frames": 133, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 112, "end_time": 132}]}
+{"video_path": "S006078_P0006_T00", "num_frames": 200, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 184, "end_time": 199}]}
+{"video_path": "S006078_P0009_T00", "num_frames": 234, "idle_segments": [{"start_time": 0, "end_time": 23}]}
+{"video_path": "S006081_P0006_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 176, "end_time": 194}]}
+{"video_path": "S006081_P0009_T00", "num_frames": 202, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 186, "end_time": 201}]}
+{"video_path": "S006086_P0006_T00", "num_frames": 199, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 178, "end_time": 198}]}
+{"video_path": "S006086_P0009_T00", "num_frames": 190, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 185, "end_time": 189}]}
+{"video_path": "S006089_P0000_T00", "num_frames": 92, "idle_segments": [{"start_time": 80, "end_time": 91}]}
+{"video_path": "S006115_P0000_T00", "num_frames": 200, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 183, "end_time": 199}]}
+{"video_path": "S006115_P0006_T00", "num_frames": 239, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 218, "end_time": 238}]}
+{"video_path": "S006127_P0006_T00", "num_frames": 127, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 105, "end_time": 126}]}
+{"video_path": "S006144_P0009_T00", "num_frames": 184, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 168, "end_time": 183}]}
+{"video_path": "S006160_P0000_T00", "num_frames": 143, "idle_segments": []}
+{"video_path": "S006160_P0009_T00", "num_frames": 183, "idle_segments": []}
+{"video_path": "S006180_P0009_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 2}]}
+{"video_path": "S006206_P0000_T00", "num_frames": 52, "idle_segments": [{"start_time": 46, "end_time": 51}]}
+{"video_path": "S006206_P0006_T00", "num_frames": 89, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 73, "end_time": 88}]}
+{"video_path": "S006241_P0006_T00", "num_frames": 242, "idle_segments": [{"start_time": 0, "end_time": 31}, {"start_time": 230, "end_time": 241}]}
+{"video_path": "S006244_P0000_T00", "num_frames": 137, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 130, "end_time": 136}]}
+{"video_path": "S006244_P0006_T00", "num_frames": 178, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 162, "end_time": 177}]}
+{"video_path": "S006258_P0009_T00", "num_frames": 210, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 177, "end_time": 209}]}
+{"video_path": "S006268_P0006_T00", "num_frames": 257, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 247, "end_time": 256}]}
+{"video_path": "S006268_P0009_T00", "num_frames": 261, "idle_segments": [{"start_time": 0, "end_time": 22}, {"start_time": 240, "end_time": 260}]}
+{"video_path": "S006300_P0006_T00", "num_frames": 166, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 156, "end_time": 165}]}
+{"video_path": "S006312_P0000_T00", "num_frames": 150, "idle_segments": [{"start_time": 132, "end_time": 149}]}
+{"video_path": "S006312_P0009_T00", "num_frames": 175, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 165, "end_time": 174}]}
+{"video_path": "S006344_P0009_T00", "num_frames": 217, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 198, "end_time": 216}]}
+{"video_path": "S006352_P0000_T00", "num_frames": 79, "idle_segments": [{"start_time": 71, "end_time": 78}]}
+{"video_path": "S006416_P0009_T00", "num_frames": 140, "idle_segments": [{"start_time": 0, "end_time": 27}]}
+{"video_path": "S006423_P0000_T00", "num_frames": 66, "idle_segments": [{"start_time": 62, "end_time": 65}]}
+{"video_path": "S006430_P0000_T00", "num_frames": 72, "idle_segments": [{"start_time": 63, "end_time": 71}]}
+{"video_path": "S006452_P0000_T00", "num_frames": 96, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 92, "end_time": 95}]}
+{"video_path": "S006453_P0009_T00", "num_frames": 131, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 115, "end_time": 130}]}
+{"video_path": "S006477_P0000_T00", "num_frames": 194, "idle_segments": [{"start_time": 183, "end_time": 193}]}
+{"video_path": "S006480_P0009_T00", "num_frames": 142, "idle_segments": [{"start_time": 0, "end_time": 22}]}
+{"video_path": "S006484_P0009_T00", "num_frames": 151, "idle_segments": [{"start_time": 0, "end_time": 39}]}
+{"video_path": "S006490_P0000_T00", "num_frames": 95, "idle_segments": [{"start_time": 89, "end_time": 94}]}
+{"video_path": "S006493_P0009_T00", "num_frames": 124, "idle_segments": [{"start_time": 106, "end_time": 123}]}
+{"video_path": "S006499_P0009_T00", "num_frames": 151, "idle_segments": [{"start_time": 0, "end_time": 12}, {"start_time": 150, "end_time": 150}]}
+{"video_path": "S006505_P0009_T00", "num_frames": 134, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 133, "end_time": 133}]}
+{"video_path": "S006532_P0009_T00", "num_frames": 140, "idle_segments": [{"start_time": 0, "end_time": 37}]}
+{"video_path": "S006537_P0009_T00", "num_frames": 212, "idle_segments": [{"start_time": 0, "end_time": 29}]}
+{"video_path": "S006540_P0009_T00", "num_frames": 136, "idle_segments": [{"start_time": 0, "end_time": 6}, {"start_time": 113, "end_time": 135}]}
+{"video_path": "S006542_P0000_T00", "num_frames": 92, "idle_segments": [{"start_time": 81, "end_time": 91}]}
+{"video_path": "S006564_P0009_T00", "num_frames": 113, "idle_segments": [{"start_time": 0, "end_time": 24}]}
+{"video_path": "S006565_P0009_T00", "num_frames": 159, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 145, "end_time": 158}]}
+{"video_path": "S006575_P0000_T00", "num_frames": 73, "idle_segments": [{"start_time": 62, "end_time": 72}]}
+{"video_path": "S006584_P0009_T00", "num_frames": 163, "idle_segments": [{"start_time": 0, "end_time": 33}, {"start_time": 142, "end_time": 162}]}
+{"video_path": "S006640_P0009_T00", "num_frames": 204, "idle_segments": [{"start_time": 0, "end_time": 32}, {"start_time": 178, "end_time": 203}]}
+{"video_path": "S006667_P0009_T00", "num_frames": 159, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 139, "end_time": 158}]}
+{"video_path": "S006674_P0009_T00", "num_frames": 169, "idle_segments": [{"start_time": 0, "end_time": 14}]}
+{"video_path": "S006677_P0000_T00", "num_frames": 143, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 123, "end_time": 142}]}
+{"video_path": "S006686_P0009_T00", "num_frames": 165, "idle_segments": [{"start_time": 0, "end_time": 41}, {"start_time": 122, "end_time": 164}]}
+{"video_path": "S006694_P0000_T00", "num_frames": 111, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 80, "end_time": 110}]}
+{"video_path": "S006699_P0000_T00", "num_frames": 134, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 133, "end_time": 133}]}
+{"video_path": "S006700_P0000_T00", "num_frames": 134, "idle_segments": []}
+{"video_path": "S006715_P0009_T00", "num_frames": 163, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 148, "end_time": 162}]}
+{"video_path": "S006748_P0009_T00", "num_frames": 174, "idle_segments": [{"start_time": 0, "end_time": 15}]}
+{"video_path": "S006754_P0000_T00", "num_frames": 118, "idle_segments": [{"start_time": 107, "end_time": 117}]}
+{"video_path": "S006761_P0009_T00", "num_frames": 215, "idle_segments": [{"start_time": 0, "end_time": 29}, {"start_time": 206, "end_time": 214}]}
+{"video_path": "S006770_P0009_T00", "num_frames": 148, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 141, "end_time": 147}]}
+{"video_path": "S006772_P0000_T00", "num_frames": 117, "idle_segments": [{"start_time": 0, "end_time": 89}, {"start_time": 103, "end_time": 116}]}
+{"video_path": "S006779_P0000_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 43}]}
+{"video_path": "S006813_P0000_T00", "num_frames": 121, "idle_segments": [{"start_time": 116, "end_time": 120}]}
+{"video_path": "S006819_P0007_T00", "num_frames": 168, "idle_segments": [{"start_time": 0, "end_time": 47}, {"start_time": 149, "end_time": 167}]}
+{"video_path": "S006835_P0000_T00", "num_frames": 104, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 93, "end_time": 103}]}
+{"video_path": "S006835_P0003_T00", "num_frames": 200, "idle_segments": [{"start_time": 0, "end_time": 76}, {"start_time": 166, "end_time": 199}]}
+{"video_path": "S006854_P0007_T00", "num_frames": 172, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 161, "end_time": 171}]}
+{"video_path": "S006868_P0000_T00", "num_frames": 76, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 64, "end_time": 75}]}
+{"video_path": "S006868_P0007_T00", "num_frames": 125, "idle_segments": [{"start_time": 0, "end_time": 32}, {"start_time": 108, "end_time": 124}]}
+{"video_path": "S006873_P0003_T00", "num_frames": 161, "idle_segments": [{"start_time": 0, "end_time": 33}, {"start_time": 127, "end_time": 160}]}
+{"video_path": "S006875_P0007_T00", "num_frames": 115, "idle_segments": [{"start_time": 107, "end_time": 114}]}
+{"video_path": "S006883_P0003_T00", "num_frames": 154, "idle_segments": [{"start_time": 0, "end_time": 43}, {"start_time": 121, "end_time": 153}]}
+{"video_path": "S006904_P0000_T00", "num_frames": 88, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 80, "end_time": 87}]}
+{"video_path": "S006904_P0003_T00", "num_frames": 141, "idle_segments": [{"start_time": 0, "end_time": 40}, {"start_time": 120, "end_time": 140}]}
+{"video_path": "S006946_P0007_T00", "num_frames": 91, "idle_segments": [{"start_time": 0, "end_time": 14}]}
+{"video_path": "S006967_P0000_T00", "num_frames": 161, "idle_segments": [{"start_time": 153, "end_time": 160}]}
+{"video_path": "S006968_P0003_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 185, "end_time": 194}]}
+{"video_path": "S006968_P0007_T00", "num_frames": 202, "idle_segments": [{"start_time": 191, "end_time": 201}]}
+{"video_path": "S006990_P0000_T00", "num_frames": 123, "idle_segments": [{"start_time": 0, "end_time": 2}, {"start_time": 109, "end_time": 122}]}
+{"video_path": "S006990_P0007_T00", "num_frames": 143, "idle_segments": [{"start_time": 0, "end_time": 26}, {"start_time": 128, "end_time": 142}]}
+{"video_path": "S006995_P0007_T00", "num_frames": 87, "idle_segments": [{"start_time": 74, "end_time": 86}]}
+{"video_path": "S007039_P0007_T00", "num_frames": 149, "idle_segments": [{"start_time": 0, "end_time": 46}, {"start_time": 128, "end_time": 148}]}
+{"video_path": "S007042_P0000_T00", "num_frames": 109, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 93, "end_time": 108}]}
+{"video_path": "S007042_P0003_T00", "num_frames": 130, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 115, "end_time": 129}]}
+{"video_path": "S007053_P0000_T00", "num_frames": 89, "idle_segments": [{"start_time": 79, "end_time": 88}]}
+{"video_path": "S007053_P0007_T00", "num_frames": 89, "idle_segments": []}
+{"video_path": "S007055_P0000_T00", "num_frames": 216, "idle_segments": [{"start_time": 196, "end_time": 215}]}
+{"video_path": "S007055_P0003_T00", "num_frames": 184, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 172, "end_time": 183}]}
+{"video_path": "S007057_P0003_T00", "num_frames": 153, "idle_segments": [{"start_time": 0, "end_time": 23}, {"start_time": 137, "end_time": 152}]}
+{"video_path": "S007057_P0007_T00", "num_frames": 134, "idle_segments": [{"start_time": 0, "end_time": 7}, {"start_time": 126, "end_time": 133}]}
+{"video_path": "S007065_P0003_T00", "num_frames": 155, "idle_segments": [{"start_time": 0, "end_time": 25}, {"start_time": 139, "end_time": 154}]}
+{"video_path": "S007067_P0003_T00", "num_frames": 189, "idle_segments": [{"start_time": 0, "end_time": 28}, {"start_time": 174, "end_time": 188}]}
+{"video_path": "S007067_P0007_T00", "num_frames": 180, "idle_segments": [{"start_time": 0, "end_time": 1}, {"start_time": 168, "end_time": 179}]}
+{"video_path": "S007072_P0007_T00", "num_frames": 156, "idle_segments": [{"start_time": 0, "end_time": 33}, {"start_time": 151, "end_time": 155}]}
+{"video_path": "S007080_P0000_T00", "num_frames": 68, "idle_segments": [{"start_time": 56, "end_time": 67}]}
+{"video_path": "S007080_P0003_T00", "num_frames": 115, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 92, "end_time": 114}]}
+{"video_path": "S007088_P0007_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 29}, {"start_time": 188, "end_time": 194}]}
+{"video_path": "S007118_P0003_T00", "num_frames": 118, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 95, "end_time": 117}]}
+{"video_path": "S007120_P0000_T00", "num_frames": 109, "idle_segments": [{"start_time": 100, "end_time": 108}]}
+{"video_path": "S007121_P0000_T00", "num_frames": 109, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 100, "end_time": 108}]}
+{"video_path": "S007121_P0007_T00", "num_frames": 107, "idle_segments": [{"start_time": 98, "end_time": 106}]}
+{"video_path": "S007123_P0000_T00", "num_frames": 95, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 86, "end_time": 94}]}
+{"video_path": "S007126_P0000_T00", "num_frames": 96, "idle_segments": [{"start_time": 91, "end_time": 95}]}
+{"video_path": "S007126_P0003_T00", "num_frames": 150, "idle_segments": [{"start_time": 0, "end_time": 27}, {"start_time": 119, "end_time": 149}]}
+{"video_path": "S007133_P0003_T00", "num_frames": 133, "idle_segments": [{"start_time": 109, "end_time": 132}]}
+{"video_path": "S007133_P0007_T00", "num_frames": 144, "idle_segments": [{"start_time": 0, "end_time": 10}, {"start_time": 137, "end_time": 143}]}
+{"video_path": "S007137_P0003_T00", "num_frames": 131, "idle_segments": [{"start_time": 0, "end_time": 20}, {"start_time": 115, "end_time": 130}]}
+{"video_path": "S007140_P0000_T00", "num_frames": 97, "idle_segments": [{"start_time": 88, "end_time": 96}]}
+{"video_path": "S007140_P0003_T00", "num_frames": 118, "idle_segments": [{"start_time": 0, "end_time": 14}, {"start_time": 102, "end_time": 117}]}
+{"video_path": "S007148_P0000_T00", "num_frames": 191, "idle_segments": [{"start_time": 178, "end_time": 190}]}
+{"video_path": "S007154_P0003_T00", "num_frames": 212, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 182, "end_time": 211}]}
+{"video_path": "S007154_P0007_T00", "num_frames": 192, "idle_segments": [{"start_time": 185, "end_time": 191}]}
+{"video_path": "S007160_P0003_T00", "num_frames": 181, "idle_segments": [{"start_time": 0, "end_time": 11}, {"start_time": 159, "end_time": 180}]}
+{"video_path": "S007161_P0000_T00", "num_frames": 154, "idle_segments": [{"start_time": 144, "end_time": 153}]}
+{"video_path": "S007167_P0007_T00", "num_frames": 174, "idle_segments": [{"start_time": 169, "end_time": 173}]}
+{"video_path": "S007175_P0003_T00", "num_frames": 126, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 114, "end_time": 125}]}
+{"video_path": "S007175_P0007_T00", "num_frames": 125, "idle_segments": [{"start_time": 122, "end_time": 124}]}
+{"video_path": "S007192_P0007_T00", "num_frames": 120, "idle_segments": [{"start_time": 116, "end_time": 119}]}
+{"video_path": "S007211_P0000_T00", "num_frames": 81, "idle_segments": [{"start_time": 80, "end_time": 80}]}
+{"video_path": "S007211_P0007_T00", "num_frames": 81, "idle_segments": []}
+{"video_path": "S007218_P0007_T00", "num_frames": 160, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 151, "end_time": 159}]}
+{"video_path": "S007229_P0003_T00", "num_frames": 172, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 145, "end_time": 171}]}
+{"video_path": "S007229_P0007_T00", "num_frames": 161, "idle_segments": [{"start_time": 152, "end_time": 160}]}
+{"video_path": "S007256_P0003_T00", "num_frames": 142, "idle_segments": [{"start_time": 0, "end_time": 17}, {"start_time": 120, "end_time": 141}]}
+{"video_path": "S007259_P0000_T00", "num_frames": 100, "idle_segments": [{"start_time": 94, "end_time": 99}]}
+{"video_path": "S007278_P0000_T00", "num_frames": 179, "idle_segments": [{"start_time": 168, "end_time": 178}]}
+{"video_path": "S007278_P0007_T00", "num_frames": 203, "idle_segments": [{"start_time": 181, "end_time": 202}]}
+{"video_path": "S007293_P0000_T00", "num_frames": 101, "idle_segments": [{"start_time": 92, "end_time": 100}]}
+{"video_path": "S007293_P0003_T00", "num_frames": 130, "idle_segments": [{"start_time": 0, "end_time": 19}, {"start_time": 109, "end_time": 129}]}
+{"video_path": "S007300_P0000_T00", "num_frames": 113, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 103, "end_time": 112}]}
+{"video_path": "S007300_P0003_T00", "num_frames": 123, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 111, "end_time": 122}]}
+{"video_path": "S007307_P0003_T00", "num_frames": 90, "idle_segments": [{"start_time": 0, "end_time": 15}, {"start_time": 56, "end_time": 89}]}
+{"video_path": "S007321_P0007_T00", "num_frames": 164, "idle_segments": [{"start_time": 0, "end_time": 13}, {"start_time": 148, "end_time": 163}]}
+{"video_path": "S007325_P0000_T00", "num_frames": 103, "idle_segments": [{"start_time": 99, "end_time": 102}]}
+{"video_path": "S007325_P0003_T00", "num_frames": 118, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 108, "end_time": 117}]}
+{"video_path": "S007336_P0000_T00", "num_frames": 61, "idle_segments": [{"start_time": 0, "end_time": 3}, {"start_time": 51, "end_time": 60}]}
+{"video_path": "S007337_P0003_T00", "num_frames": 176, "idle_segments": [{"start_time": 0, "end_time": 16}, {"start_time": 158, "end_time": 175}]}
+{"video_path": "S007337_P0007_T00", "num_frames": 197, "idle_segments": [{"start_time": 183, "end_time": 196}]}
+{"video_path": "S007350_P0000_T00", "num_frames": 251, "idle_segments": [{"start_time": 0, "end_time": 9}, {"start_time": 244, "end_time": 250}]}
+{"video_path": "S007361_P0003_T00", "num_frames": 195, "idle_segments": [{"start_time": 0, "end_time": 21}, {"start_time": 167, "end_time": 194}]}
+{"video_path": "S007362_P0000_T00", "num_frames": 82, "idle_segments": [{"start_time": 67, "end_time": 81}]}
+{"video_path": "S007372_P0000_T00", "num_frames": 88, "idle_segments": [{"start_time": 82, "end_time": 87}]}
+{"video_path": "S007372_P0007_T00", "num_frames": 100, "idle_segments": [{"start_time": 92, "end_time": 99}]}
+{"video_path": "S007384_P0003_T00", "num_frames": 122, "idle_segments": [{"start_time": 0, "end_time": 29}, {"start_time": 88, "end_time": 121}]}
+{"video_path": "S007387_P0000_T00", "num_frames": 105, "idle_segments": [{"start_time": 0, "end_time": 5}, {"start_time": 99, "end_time": 104}]}
+{"video_path": "S007390_P0003_T00", "num_frames": 222, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 200, "end_time": 221}]}
+{"video_path": "S007396_P0000_T00", "num_frames": 59, "idle_segments": [{"start_time": 58, "end_time": 58}]}
+{"video_path": "S007396_P0003_T00", "num_frames": 108, "idle_segments": [{"start_time": 0, "end_time": 18}, {"start_time": 81, "end_time": 107}]}
+{"video_path": "S007397_P0000_T00", "num_frames": 95, "idle_segments": []}
+{"video_path": "S007397_P0007_T00", "num_frames": 151, "idle_segments": [{"start_time": 0, "end_time": 24}, {"start_time": 144, "end_time": 150}]}

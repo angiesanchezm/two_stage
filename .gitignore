@@ -1,5 +1,6 @@
 .DS_Store
 Data/
+Data_CSLDaily/
 venv/
 german/
 *.pyc
