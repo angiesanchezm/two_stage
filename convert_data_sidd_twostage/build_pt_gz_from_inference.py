@@ -261,3 +261,13 @@ if __name__ == "__main__":
 #   El script ahora acepta la flag --trim que:
 #   1. Lee las longitudes originales de los archivos GT {split}.skels + {split}.files
 #   2. Recorta cada hipótesis quitando el left padding (6 frames) y tomando solo original_length frames
+
+
+
+#Para ejecutar el script, asegúrate de ajustar las rutas a tus carpetas de modelos, datos y metadata. Por ejemplo para CSLDaily:
+# python convert_data_sidd_twostage/build_pt_gz_from_inference.py \
+#     --models-dir ./Models/csldaily \
+#     --data-dir ./Data/csldaily \
+#     --metadata-dir ./Data/metadata \
+#     --output-dir ./Models/csldaily \
+#     --trim

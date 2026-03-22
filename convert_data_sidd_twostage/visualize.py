@@ -370,3 +370,9 @@ if __name__ == "__main__":
 #   python visualize.py --predictions_file Models_300/german/dev.pt.gz --sample_idx 200 --data_dir Data/german --split dev
 
 #ahora sí, haz configurable el max_length y test_data/dev_data desde el yaml
+
+# python convert_data_sidd_twostage/visualize.py \                                                                                                                
+#     --predictions_file ./Models/csldaily/test.pt.gz \                                                                                                             
+#     --sample_idx 200 \                                                                                                                                            
+#     --data_dir ./Data/csldaily \                                                                                                                                  
+#     --split test 
